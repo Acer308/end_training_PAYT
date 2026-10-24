@@ -1,0 +1,1701 @@
+season,round,date,circuit,driver,constructor,grid,position,points,status,laps
+2010,1,2010-03-14,Bahrain International Circuit,alonso,ferrari,3,1,25,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,massa,ferrari,2,2,18,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,hamilton,mclaren,4,3,15,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,vettel,red_bull,1,4,12,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,rosberg,mercedes,5,5,10,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,michael_schumacher,mercedes,7,6,8,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,button,mclaren,8,7,6,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,webber,red_bull,6,8,4,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,liuzzi,force_india,12,9,2,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,barrichello,williams,11,10,1,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,kubica,renault,9,11,0,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,sutil,force_india,10,12,0,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,alguersuari,toro_rosso,18,13,0,Finished,49
+2010,1,2010-03-14,Bahrain International Circuit,hulkenberg,williams,13,14,0,+1 Lap,48
+2010,1,2010-03-14,Bahrain International Circuit,kovalainen,lotus_racing,21,15,0,+2 Laps,47
+2010,1,2010-03-14,Bahrain International Circuit,buemi,toro_rosso,15,16,0,Electrical,46
+2010,1,2010-03-14,Bahrain International Circuit,trulli,lotus_racing,20,17,0,Hydraulics,46
+2010,1,2010-03-14,Bahrain International Circuit,rosa,sauber,14,18,0,Hydraulics,28
+2010,1,2010-03-14,Bahrain International Circuit,bruno_senna,hrt,23,19,0,Overheating,17
+2010,1,2010-03-14,Bahrain International Circuit,glock,virgin,19,20,0,Gearbox,16
+2010,1,2010-03-14,Bahrain International Circuit,petrov,renault,17,21,0,Suspension,13
+2010,1,2010-03-14,Bahrain International Circuit,kobayashi,sauber,16,22,0,Hydraulics,11
+2010,1,2010-03-14,Bahrain International Circuit,grassi,virgin,22,23,0,Hydraulics,2
+2010,1,2010-03-14,Bahrain International Circuit,chandhok,hrt,24,24,0,Accident,1
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,button,mclaren,4,1,25,Finished,58
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,kubica,renault,9,2,18,Finished,58
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,massa,ferrari,5,3,15,Finished,58
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,alonso,ferrari,3,4,12,Finished,58
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,rosberg,mercedes,6,5,10,Finished,58
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,hamilton,mclaren,11,6,8,Finished,58
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,liuzzi,force_india,13,7,6,Finished,58
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,barrichello,williams,8,8,4,Finished,58
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,webber,red_bull,2,9,2,Finished,58
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,michael_schumacher,mercedes,7,10,1,Finished,58
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,alguersuari,toro_rosso,17,11,0,Finished,58
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,rosa,sauber,14,12,0,Finished,58
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,kovalainen,lotus_racing,19,13,0,+2 Laps,56
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,chandhok,hrt,22,14,0,+5 Laps,53
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,glock,virgin,23,15,0,Suspension,41
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,grassi,virgin,24,16,0,Hydraulics,26
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,vettel,red_bull,1,17,0,Wheel,25
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,sutil,force_india,10,18,0,Engine,9
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,petrov,renault,18,19,0,Spun off,9
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,bruno_senna,hrt,21,20,0,Hydraulics,4
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,buemi,toro_rosso,12,21,0,Collision,0
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,hulkenberg,williams,15,22,0,Collision,0
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,kobayashi,sauber,16,23,0,Collision,0
+2010,2,2010-03-28,Albert Park Grand Prix Circuit,trulli,lotus_racing,20,24,0,Hydraulics,0
+2010,3,2010-04-04,Sepang International Circuit,vettel,red_bull,3,1,25,Finished,56
+2010,3,2010-04-04,Sepang International Circuit,webber,red_bull,1,2,18,Finished,56
+2010,3,2010-04-04,Sepang International Circuit,rosberg,mercedes,2,3,15,Finished,56
+2010,3,2010-04-04,Sepang International Circuit,kubica,renault,6,4,12,Finished,56
+2010,3,2010-04-04,Sepang International Circuit,sutil,force_india,4,5,10,Finished,56
+2010,3,2010-04-04,Sepang International Circuit,hamilton,mclaren,20,6,8,Finished,56
+2010,3,2010-04-04,Sepang International Circuit,massa,ferrari,21,7,6,Finished,56
+2010,3,2010-04-04,Sepang International Circuit,button,mclaren,17,8,4,Finished,56
+2010,3,2010-04-04,Sepang International Circuit,alguersuari,toro_rosso,14,9,2,Finished,56
+2010,3,2010-04-04,Sepang International Circuit,hulkenberg,williams,5,10,1,Finished,56
+2010,3,2010-04-04,Sepang International Circuit,buemi,toro_rosso,13,11,0,Finished,56
+2010,3,2010-04-04,Sepang International Circuit,barrichello,williams,7,12,0,+1 Lap,55
+2010,3,2010-04-04,Sepang International Circuit,alonso,ferrari,19,13,0,Engine,54
+2010,3,2010-04-04,Sepang International Circuit,grassi,virgin,24,14,0,+3 Laps,53
+2010,3,2010-04-04,Sepang International Circuit,chandhok,hrt,22,15,0,+3 Laps,53
+2010,3,2010-04-04,Sepang International Circuit,bruno_senna,hrt,23,16,0,+4 Laps,52
+2010,3,2010-04-04,Sepang International Circuit,trulli,lotus_racing,18,17,0,+5 Laps,51
+2010,3,2010-04-04,Sepang International Circuit,kovalainen,lotus_racing,15,18,0,+10 Laps,46
+2010,3,2010-04-04,Sepang International Circuit,petrov,renault,11,19,0,Gearbox,32
+2010,3,2010-04-04,Sepang International Circuit,liuzzi,force_india,10,20,0,Throttle,12
+2010,3,2010-04-04,Sepang International Circuit,michael_schumacher,mercedes,8,21,0,Wheel,9
+2010,3,2010-04-04,Sepang International Circuit,kobayashi,sauber,9,22,0,Engine,8
+2010,3,2010-04-04,Sepang International Circuit,glock,virgin,16,23,0,Spun off,2
+2010,3,2010-04-04,Sepang International Circuit,rosa,sauber,12,24,0,Engine,0
+2010,4,2010-04-18,Shanghai International Circuit,button,mclaren,5,1,25,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,hamilton,mclaren,6,2,18,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,rosberg,mercedes,4,3,15,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,alonso,ferrari,3,4,12,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,kubica,renault,8,5,10,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,vettel,red_bull,1,6,8,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,petrov,renault,14,7,6,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,webber,red_bull,2,8,4,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,massa,ferrari,7,9,2,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,michael_schumacher,mercedes,9,10,1,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,sutil,force_india,10,11,0,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,barrichello,williams,11,12,0,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,alguersuari,toro_rosso,12,13,0,Finished,56
+2010,4,2010-04-18,Shanghai International Circuit,kovalainen,lotus_racing,21,14,0,+1 Lap,55
+2010,4,2010-04-18,Shanghai International Circuit,hulkenberg,williams,16,15,0,+1 Lap,55
+2010,4,2010-04-18,Shanghai International Circuit,bruno_senna,hrt,23,16,0,+2 Laps,54
+2010,4,2010-04-18,Shanghai International Circuit,chandhok,hrt,24,17,0,+4 Laps,52
+2010,4,2010-04-18,Shanghai International Circuit,trulli,lotus_racing,20,18,0,Hydraulics,26
+2010,4,2010-04-18,Shanghai International Circuit,grassi,virgin,22,19,0,Clutch,8
+2010,4,2010-04-18,Shanghai International Circuit,rosa,sauber,17,20,0,Technical,7
+2010,4,2010-04-18,Shanghai International Circuit,buemi,toro_rosso,13,21,0,Accident,0
+2010,4,2010-04-18,Shanghai International Circuit,kobayashi,sauber,15,22,0,Accident,0
+2010,4,2010-04-18,Shanghai International Circuit,liuzzi,force_india,18,23,0,Accident,0
+2010,4,2010-04-18,Shanghai International Circuit,glock,virgin,19,24,0,Engine,0
+2010,5,2010-05-09,Circuit de Barcelona-Catalunya,webber,red_bull,1,1,25,Finished,66
+2010,5,2010-05-09,Circuit de Barcelona-Catalunya,alonso,ferrari,4,2,18,Finished,66
+2010,5,2010-05-09,Circuit de Barcelona-Catalunya,vettel,red_bull,2,3,15,Finished,66
+2010,5,2010-05-09,Circuit de Barcelona-Catalunya,michael_schumacher,mercedes,6,4,12,Finished,66
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,vettel,red_bull,1,1,25,Finished,58
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,hamilton,mclaren,2,2,18,Finished,58
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,petrov,renault,6,3,15,Finished,58
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,alonso,ferrari,5,4,12,Finished,58
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,webber,red_bull,3,5,10,Finished,58
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,button,mclaren,4,6,8,Finished,58
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,massa,ferrari,8,7,6,Finished,58
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,buemi,toro_rosso,10,8,4,+1 Lap,57
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,sutil,force_india,16,9,2,+1 Lap,57
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,resta,force_india,14,10,1,+1 Lap,57
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,alguersuari,toro_rosso,12,11,0,+1 Lap,57
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,heidfeld,renault,18,12,0,+1 Lap,57
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,trulli,lotus_racing,20,13,0,+2 Laps,56
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,ambrosio,virgin,22,14,0,+4 Laps,54
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,glock,virgin,21,15,0,+9 Laps,49
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,barrichello,williams,17,16,0,Transmission,48
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,rosberg,mercedes,7,17,0,Collision,22
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,kovalainen,lotus_racing,19,18,0,Water leak,19
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,michael_schumacher,mercedes,11,19,0,Collision,19
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,maldonado,williams,15,20,0,Transmission,9
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,kobayashi,sauber,9,21,0,Disqualified,58
+2011,1,2011-03-27,Albert Park Grand Prix Circuit,perez,sauber,13,22,0,Disqualified,58
+2011,2,2011-04-10,Sepang International Circuit,vettel,red_bull,1,1,25,Finished,56
+2011,2,2011-04-10,Sepang International Circuit,button,mclaren,4,2,18,Finished,56
+2011,2,2011-04-10,Sepang International Circuit,heidfeld,renault,6,3,15,Finished,56
+2011,2,2011-04-10,Sepang International Circuit,webber,red_bull,3,4,12,Finished,56
+2011,2,2011-04-10,Sepang International Circuit,massa,ferrari,7,5,10,Finished,56
+2011,2,2011-04-10,Sepang International Circuit,alonso,ferrari,5,6,8,Finished,56
+2011,2,2011-04-10,Sepang International Circuit,kobayashi,sauber,10,7,6,Finished,56
+2011,2,2011-04-10,Sepang International Circuit,hamilton,mclaren,2,8,4,Finished,56
+2011,2,2011-04-10,Sepang International Circuit,michael_schumacher,mercedes,11,9,2,Finished,56
+2011,2,2011-04-10,Sepang International Circuit,resta,force_india,14,10,1,Finished,56
+2011,2,2011-04-10,Sepang International Circuit,sutil,force_india,17,11,0,+1 Lap,55
+2011,2,2011-04-10,Sepang International Circuit,rosberg,mercedes,9,12,0,+1 Lap,55
+2011,2,2011-04-10,Sepang International Circuit,buemi,toro_rosso,12,13,0,+1 Lap,55
+2011,2,2011-04-10,Sepang International Circuit,alguersuari,toro_rosso,13,14,0,+1 Lap,55
+2011,2,2011-04-10,Sepang International Circuit,kovalainen,lotus_racing,19,15,0,+1 Lap,55
+2011,2,2011-04-10,Sepang International Circuit,glock,virgin,21,16,0,+2 Laps,54
+2011,2,2011-04-10,Sepang International Circuit,petrov,renault,8,17,0,Accident,52
+2011,2,2011-04-10,Sepang International Circuit,liuzzi,hrt,23,18,0,+10 Laps,46
+2011,2,2011-04-10,Sepang International Circuit,ambrosio,virgin,22,19,0,Accident,42
+2011,2,2011-04-10,Sepang International Circuit,trulli,lotus_racing,20,20,0,Clutch,31
+2011,2,2011-04-10,Sepang International Circuit,perez,sauber,16,21,0,Accident,23
+2011,2,2011-04-10,Sepang International Circuit,barrichello,williams,15,22,0,Gearbox,22
+2011,2,2011-04-10,Sepang International Circuit,karthikeyan,hrt,24,23,0,+42 Laps,14
+2011,2,2011-04-10,Sepang International Circuit,maldonado,williams,18,24,0,Engine misfire,8
+2011,3,2011-04-17,Shanghai International Circuit,hamilton,mclaren,3,1,25,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,vettel,red_bull,1,2,18,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,webber,red_bull,18,3,15,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,button,mclaren,2,4,12,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,rosberg,mercedes,4,5,10,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,massa,ferrari,6,6,8,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,alonso,ferrari,5,7,6,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,michael_schumacher,mercedes,14,8,4,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,petrov,renault,10,9,2,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,kobayashi,sauber,13,10,1,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,resta,force_india,8,11,0,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,heidfeld,renault,16,12,0,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,barrichello,williams,15,13,0,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,buemi,toro_rosso,9,14,0,Finished,56
+2011,3,2011-04-17,Shanghai International Circuit,sutil,force_india,11,15,0,+1 Lap,55
+2011,3,2011-04-17,Shanghai International Circuit,kovalainen,lotus_racing,19,16,0,+1 Lap,55
+2011,3,2011-04-17,Shanghai International Circuit,perez,sauber,12,17,0,+1 Lap,55
+2011,3,2011-04-17,Shanghai International Circuit,maldonado,williams,17,18,0,+1 Lap,55
+2011,3,2011-04-17,Shanghai International Circuit,trulli,lotus_racing,20,19,0,+1 Lap,55
+2011,3,2011-04-17,Shanghai International Circuit,ambrosio,virgin,21,20,0,+2 Laps,54
+2011,3,2011-04-17,Shanghai International Circuit,glock,virgin,22,21,0,+2 Laps,54
+2011,3,2011-04-17,Shanghai International Circuit,liuzzi,hrt,23,22,0,+2 Laps,54
+2011,3,2011-04-17,Shanghai International Circuit,karthikeyan,hrt,24,23,0,+2 Laps,54
+2011,3,2011-04-17,Shanghai International Circuit,alguersuari,toro_rosso,7,24,0,Wheel,9
+2011,4,2011-05-08,Istanbul Park,vettel,red_bull,1,1,25,Finished,58
+2011,4,2011-05-08,Istanbul Park,webber,red_bull,2,2,18,Finished,58
+2011,4,2011-05-08,Istanbul Park,alonso,ferrari,5,3,15,Finished,58
+2011,4,2011-05-08,Istanbul Park,hamilton,mclaren,4,4,12,Finished,58
+2011,4,2011-05-08,Istanbul Park,rosberg,mercedes,3,5,10,Finished,58
+2011,4,2011-05-08,Istanbul Park,button,mclaren,6,6,8,Finished,58
+2011,4,2011-05-08,Istanbul Park,heidfeld,renault,9,7,6,Finished,58
+2011,4,2011-05-08,Istanbul Park,petrov,renault,7,8,4,Finished,58
+2011,4,2011-05-08,Istanbul Park,buemi,toro_rosso,16,9,2,Finished,58
+2011,4,2011-05-08,Istanbul Park,kobayashi,sauber,24,10,1,Finished,58
+2011,4,2011-05-08,Istanbul Park,massa,ferrari,10,11,0,Finished,58
+2011,4,2011-05-08,Istanbul Park,michael_schumacher,mercedes,8,12,0,Finished,58
+2011,4,2011-05-08,Istanbul Park,sutil,force_india,12,13,0,+1 Lap,57
+2011,4,2011-05-08,Istanbul Park,perez,sauber,15,14,0,+1 Lap,57
+2011,4,2011-05-08,Istanbul Park,barrichello,williams,11,15,0,+1 Lap,57
+2011,4,2011-05-08,Istanbul Park,alguersuari,toro_rosso,17,16,0,+1 Lap,57
+2011,4,2011-05-08,Istanbul Park,maldonado,williams,14,17,0,+1 Lap,57
+2011,4,2011-05-08,Istanbul Park,trulli,lotus_racing,19,18,0,+1 Lap,57
+2011,4,2011-05-08,Istanbul Park,kovalainen,lotus_racing,18,19,0,+2 Laps,56
+2011,4,2011-05-08,Istanbul Park,ambrosio,virgin,23,20,0,+2 Laps,56
+2011,4,2011-05-08,Istanbul Park,karthikeyan,hrt,22,21,0,+3 Laps,55
+2011,4,2011-05-08,Istanbul Park,liuzzi,hrt,20,22,0,+5 Laps,53
+2011,4,2011-05-08,Istanbul Park,resta,force_india,13,23,0,Retired,44
+2011,4,2011-05-08,Istanbul Park,glock,virgin,21,24,0,Gearbox,0
+2011,5,2011-05-22,Circuit de Barcelona-Catalunya,vettel,red_bull,2,1,25,Finished,66
+2011,5,2011-05-22,Circuit de Barcelona-Catalunya,hamilton,mclaren,3,2,18,Finished,66
+2011,5,2011-05-22,Circuit de Barcelona-Catalunya,button,mclaren,5,3,15,Finished,66
+2011,5,2011-05-22,Circuit de Barcelona-Catalunya,webber,red_bull,1,4,12,Finished,66
+2011,5,2011-05-22,Circuit de Barcelona-Catalunya,alonso,ferrari,4,5,10,+1 Lap,65
+2011,5,2011-05-22,Circuit de Barcelona-Catalunya,michael_schumacher,mercedes,10,6,8,+1 Lap,65
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,button,mclaren,2,1,25,Finished,58
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,vettel,red_bull,6,2,18,Finished,58
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,hamilton,mclaren,1,3,15,Finished,58
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,webber,red_bull,5,4,12,Finished,58
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,alonso,ferrari,12,5,10,Finished,58
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,kobayashi,sauber,13,6,8,Finished,58
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,raikkonen,lotus_f1,17,7,6,Finished,58
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,perez,sauber,22,8,4,Finished,58
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,ricciardo,toro_rosso,10,9,2,Finished,58
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,resta,force_india,15,10,1,Finished,58
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,vergne,toro_rosso,11,11,0,Finished,58
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,rosberg,mercedes,7,12,0,Finished,58
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,maldonado,williams,8,13,0,Accident,57
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,glock,marussia,20,14,0,+1 Lap,57
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,pic,marussia,21,15,0,+5 Laps,53
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,bruno_senna,williams,14,16,0,Collision,52
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,massa,ferrari,16,17,0,Collision,46
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,kovalainen,caterham,18,18,0,Suspension,38
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,petrov,caterham,19,19,0,Steering,34
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,michael_schumacher,mercedes,4,20,0,Gearbox,10
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,grosjean,lotus_f1,3,21,0,Collision,1
+2012,1,2012-03-18,Albert Park Grand Prix Circuit,hulkenberg,force_india,9,22,0,Collision,0
+2012,2,2012-03-25,Sepang International Circuit,alonso,ferrari,8,1,25,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,perez,sauber,9,2,18,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,hamilton,mclaren,1,3,15,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,webber,red_bull,4,4,12,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,raikkonen,lotus_f1,10,5,10,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,bruno_senna,williams,13,6,8,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,resta,force_india,14,7,6,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,vergne,toro_rosso,18,8,4,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,hulkenberg,force_india,16,9,2,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,michael_schumacher,mercedes,3,10,1,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,vettel,red_bull,5,11,0,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,ricciardo,toro_rosso,15,12,0,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,rosberg,mercedes,7,13,0,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,button,mclaren,2,14,0,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,massa,ferrari,12,15,0,Finished,56
+2012,2,2012-03-25,Sepang International Circuit,petrov,caterham,19,16,0,+1 Lap,55
+2012,2,2012-03-25,Sepang International Circuit,glock,marussia,20,17,0,+1 Lap,55
+2012,2,2012-03-25,Sepang International Circuit,kovalainen,caterham,24,18,0,+1 Lap,55
+2012,2,2012-03-25,Sepang International Circuit,maldonado,williams,11,19,0,Engine,54
+2012,2,2012-03-25,Sepang International Circuit,pic,marussia,21,20,0,+2 Laps,54
+2012,2,2012-03-25,Sepang International Circuit,karthikeyan,hrt,23,21,0,+2 Laps,54
+2012,2,2012-03-25,Sepang International Circuit,rosa,hrt,22,22,0,+2 Laps,54
+2012,2,2012-03-25,Sepang International Circuit,kobayashi,sauber,17,23,0,Retired,46
+2012,2,2012-03-25,Sepang International Circuit,grosjean,lotus_f1,6,24,0,Collision,3
+2012,3,2012-04-15,Shanghai International Circuit,rosberg,mercedes,1,1,25,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,button,mclaren,5,2,18,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,hamilton,mclaren,7,3,15,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,webber,red_bull,6,4,12,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,vettel,red_bull,11,5,10,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,grosjean,lotus_f1,10,6,8,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,bruno_senna,williams,14,7,6,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,maldonado,williams,13,8,4,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,alonso,ferrari,9,9,2,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,kobayashi,sauber,3,10,1,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,perez,sauber,8,11,0,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,resta,force_india,15,12,0,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,massa,ferrari,12,13,0,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,raikkonen,lotus_f1,4,14,0,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,hulkenberg,force_india,16,15,0,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,vergne,toro_rosso,24,16,0,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,ricciardo,toro_rosso,17,17,0,Finished,56
+2012,3,2012-04-15,Shanghai International Circuit,petrov,caterham,19,18,0,+1 Lap,55
+2012,3,2012-04-15,Shanghai International Circuit,glock,marussia,20,19,0,+1 Lap,55
+2012,3,2012-04-15,Shanghai International Circuit,pic,marussia,21,20,0,+1 Lap,55
+2012,3,2012-04-15,Shanghai International Circuit,rosa,hrt,22,21,0,+1 Lap,55
+2012,3,2012-04-15,Shanghai International Circuit,karthikeyan,hrt,23,22,0,+2 Laps,54
+2012,3,2012-04-15,Shanghai International Circuit,kovalainen,caterham,18,23,0,+3 Laps,53
+2012,3,2012-04-15,Shanghai International Circuit,michael_schumacher,mercedes,2,24,0,Wheel nut,12
+2012,4,2012-04-22,Bahrain International Circuit,vettel,red_bull,1,1,25,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,raikkonen,lotus_f1,11,2,18,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,grosjean,lotus_f1,7,3,15,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,webber,red_bull,3,4,12,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,rosberg,mercedes,5,5,10,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,resta,force_india,10,6,8,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,alonso,ferrari,9,7,6,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,hamilton,mclaren,2,8,4,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,massa,ferrari,14,9,2,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,michael_schumacher,mercedes,22,10,1,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,perez,sauber,8,11,0,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,hulkenberg,force_india,13,12,0,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,kobayashi,sauber,12,13,0,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,vergne,toro_rosso,17,14,0,Finished,57
+2012,4,2012-04-22,Bahrain International Circuit,ricciardo,toro_rosso,6,15,0,+1 Lap,56
+2012,4,2012-04-22,Bahrain International Circuit,petrov,caterham,18,16,0,+1 Lap,56
+2012,4,2012-04-22,Bahrain International Circuit,kovalainen,caterham,16,17,0,+1 Lap,56
+2012,4,2012-04-22,Bahrain International Circuit,button,mclaren,4,18,0,Exhaust,55
+2012,4,2012-04-22,Bahrain International Circuit,glock,marussia,23,19,0,+2 Laps,55
+2012,4,2012-04-22,Bahrain International Circuit,rosa,hrt,20,20,0,+2 Laps,55
+2012,4,2012-04-22,Bahrain International Circuit,karthikeyan,hrt,24,21,0,+2 Laps,55
+2012,4,2012-04-22,Bahrain International Circuit,bruno_senna,williams,15,22,0,Vibrations,54
+2012,4,2012-04-22,Bahrain International Circuit,maldonado,williams,21,23,0,Puncture,25
+2012,4,2012-04-22,Bahrain International Circuit,pic,marussia,19,24,0,Engine,24
+2012,5,2012-05-13,Circuit de Barcelona-Catalunya,maldonado,williams,1,1,25,Finished,66
+2012,5,2012-05-13,Circuit de Barcelona-Catalunya,alonso,ferrari,2,2,18,Finished,66
+2012,5,2012-05-13,Circuit de Barcelona-Catalunya,raikkonen,lotus_f1,4,3,15,Finished,66
+2012,5,2012-05-13,Circuit de Barcelona-Catalunya,grosjean,lotus_f1,3,4,12,Finished,66
+2012,5,2012-05-13,Circuit de Barcelona-Catalunya,kobayashi,sauber,9,5,10,Finished,66
+2012,5,2012-05-13,Circuit de Barcelona-Catalunya,vettel,red_bull,7,6,8,Finished,66
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,raikkonen,lotus_f1,7,1,25,Finished,58
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,alonso,ferrari,5,2,18,Finished,58
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,vettel,red_bull,1,3,15,Finished,58
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,massa,ferrari,4,4,12,Finished,58
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,hamilton,mercedes,3,5,10,Finished,58
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,webber,red_bull,2,6,8,Finished,58
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,sutil,force_india,12,7,6,Finished,58
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,resta,force_india,9,8,4,Finished,58
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,button,mclaren,10,9,2,Finished,58
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,grosjean,lotus_f1,8,10,1,Finished,58
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,perez,mclaren,15,11,0,Finished,58
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,vergne,toro_rosso,13,12,0,Finished,58
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,gutierrez,sauber,18,13,0,+1 Lap,57
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,bottas,williams,16,14,0,+1 Lap,57
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,jules_bianchi,marussia,19,15,0,+1 Lap,57
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,pic,caterham,22,16,0,+2 Laps,56
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,chilton,marussia,20,17,0,+2 Laps,56
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,garde,caterham,21,18,0,+2 Laps,56
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,ricciardo,toro_rosso,14,19,0,Hydraulics,39
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,rosberg,mercedes,6,20,0,Electrical,26
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,maldonado,williams,17,21,0,Spun off,24
+2013,1,2013-03-17,Albert Park Grand Prix Circuit,hulkenberg,sauber,11,22,0,Fuel system,0
+2013,2,2013-03-24,Sepang International Circuit,vettel,red_bull,1,1,25,Finished,56
+2013,2,2013-03-24,Sepang International Circuit,webber,red_bull,5,2,18,Finished,56
+2013,2,2013-03-24,Sepang International Circuit,hamilton,mercedes,4,3,15,Finished,56
+2013,2,2013-03-24,Sepang International Circuit,rosberg,mercedes,6,4,12,Finished,56
+2013,2,2013-03-24,Sepang International Circuit,massa,ferrari,2,5,10,Finished,56
+2013,2,2013-03-24,Sepang International Circuit,grosjean,lotus_f1,11,6,8,Finished,56
+2013,2,2013-03-24,Sepang International Circuit,raikkonen,lotus_f1,10,7,6,Finished,56
+2013,2,2013-03-24,Sepang International Circuit,hulkenberg,sauber,12,8,4,Finished,56
+2013,2,2013-03-24,Sepang International Circuit,perez,mclaren,9,9,2,Finished,56
+2013,2,2013-03-24,Sepang International Circuit,vergne,toro_rosso,17,10,1,Finished,56
+2013,2,2013-03-24,Sepang International Circuit,bottas,williams,18,11,0,Finished,56
+2013,2,2013-03-24,Sepang International Circuit,gutierrez,sauber,14,12,0,+1 Lap,55
+2013,2,2013-03-24,Sepang International Circuit,jules_bianchi,marussia,19,13,0,+1 Lap,55
+2013,2,2013-03-24,Sepang International Circuit,pic,caterham,20,14,0,+1 Lap,55
+2013,2,2013-03-24,Sepang International Circuit,garde,caterham,22,15,0,+1 Lap,55
+2013,2,2013-03-24,Sepang International Circuit,chilton,marussia,21,16,0,+2 Laps,54
+2013,2,2013-03-24,Sepang International Circuit,button,mclaren,7,17,0,Withdrew,53
+2013,2,2013-03-24,Sepang International Circuit,ricciardo,toro_rosso,13,18,0,Retired,51
+2013,2,2013-03-24,Sepang International Circuit,maldonado,williams,16,19,0,Retired,45
+2013,2,2013-03-24,Sepang International Circuit,sutil,force_india,8,20,0,Wheel nut,27
+2013,2,2013-03-24,Sepang International Circuit,resta,force_india,15,21,0,Wheel nut,22
+2013,2,2013-03-24,Sepang International Circuit,alonso,ferrari,3,22,0,Collision,1
+2013,3,2013-04-14,Shanghai International Circuit,alonso,ferrari,3,1,25,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,raikkonen,lotus_f1,2,2,18,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,hamilton,mercedes,1,3,15,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,vettel,red_bull,9,4,12,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,button,mclaren,8,5,10,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,massa,ferrari,5,6,8,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,ricciardo,toro_rosso,7,7,6,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,resta,force_india,11,8,4,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,grosjean,lotus_f1,6,9,2,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,hulkenberg,sauber,10,10,1,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,perez,mclaren,12,11,0,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,vergne,toro_rosso,15,12,0,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,bottas,williams,16,13,0,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,maldonado,williams,14,14,0,Finished,56
+2013,3,2013-04-14,Shanghai International Circuit,jules_bianchi,marussia,18,15,0,+1 Lap,55
+2013,3,2013-04-14,Shanghai International Circuit,pic,caterham,20,16,0,+1 Lap,55
+2013,3,2013-04-14,Shanghai International Circuit,chilton,marussia,19,17,0,+1 Lap,55
+2013,3,2013-04-14,Shanghai International Circuit,garde,caterham,21,18,0,+1 Lap,55
+2013,3,2013-04-14,Shanghai International Circuit,rosberg,mercedes,4,19,0,Suspension,21
+2013,3,2013-04-14,Shanghai International Circuit,webber,red_bull,22,20,0,Wheel,15
+2013,3,2013-04-14,Shanghai International Circuit,sutil,force_india,13,21,0,Collision,5
+2013,3,2013-04-14,Shanghai International Circuit,gutierrez,sauber,17,22,0,Collision,4
+2013,4,2013-04-21,Bahrain International Circuit,vettel,red_bull,2,1,25,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,raikkonen,lotus_f1,8,2,18,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,grosjean,lotus_f1,11,3,15,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,resta,force_india,5,4,12,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,hamilton,mercedes,9,5,10,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,perez,mclaren,12,6,8,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,webber,red_bull,7,7,6,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,alonso,ferrari,3,8,4,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,rosberg,mercedes,1,9,2,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,button,mclaren,10,10,1,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,maldonado,williams,17,11,0,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,hulkenberg,sauber,14,12,0,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,sutil,force_india,6,13,0,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,bottas,williams,15,14,0,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,massa,ferrari,4,15,0,Finished,57
+2013,4,2013-04-21,Bahrain International Circuit,ricciardo,toro_rosso,13,16,0,+1 Lap,56
+2013,4,2013-04-21,Bahrain International Circuit,pic,caterham,18,17,0,+1 Lap,56
+2013,4,2013-04-21,Bahrain International Circuit,gutierrez,sauber,22,18,0,+1 Lap,56
+2013,4,2013-04-21,Bahrain International Circuit,jules_bianchi,marussia,19,19,0,+1 Lap,56
+2013,4,2013-04-21,Bahrain International Circuit,chilton,marussia,21,20,0,+1 Lap,56
+2013,4,2013-04-21,Bahrain International Circuit,garde,caterham,20,21,0,+2 Laps,55
+2013,4,2013-04-21,Bahrain International Circuit,vergne,toro_rosso,16,22,0,Puncture,16
+2013,5,2013-05-12,Circuit de Barcelona-Catalunya,alonso,ferrari,5,1,25,Finished,66
+2013,5,2013-05-12,Circuit de Barcelona-Catalunya,raikkonen,lotus_f1,4,2,18,Finished,66
+2013,5,2013-05-12,Circuit de Barcelona-Catalunya,massa,ferrari,9,3,15,Finished,66
+2013,5,2013-05-12,Circuit de Barcelona-Catalunya,vettel,red_bull,3,4,12,Finished,66
+2013,5,2013-05-12,Circuit de Barcelona-Catalunya,webber,red_bull,7,5,10,Finished,66
+2013,5,2013-05-12,Circuit de Barcelona-Catalunya,rosberg,mercedes,1,6,8,Finished,66
+2013,5,2013-05-12,Circuit de Barcelona-Catalunya,resta,force_india,10,7,6,Finished,66
+2013,5,2013-05-12,Circuit de Barcelona-Catalunya,button,mclaren,14,8,4,Finished,66
+2013,5,2013-05-12,Circuit de Barcelona-Catalunya,perez,mclaren,8,9,2,Finished,66
+2013,5,2013-05-12,Circuit de Barcelona-Catalunya,ricciardo,toro_rosso,11,10,1,+1 Lap,65
+2013,5,2013-05-12,Circuit de Barcelona-Catalunya,gutierrez,sauber,19,11,0,+1 Lap,65
+2013,5,2013-05-12,Circuit de Barcelona-Catalunya,hamilton,mercedes,2,12,0,+1 Lap,65
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,rosberg,mercedes,3,1,25,Finished,57
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,kevin_magnussen,mclaren,4,2,18,Finished,57
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,button,mclaren,10,3,15,Finished,57
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,alonso,ferrari,5,4,12,Finished,57
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,bottas,williams,15,5,10,Finished,57
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,hulkenberg,force_india,7,6,8,Finished,57
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,raikkonen,ferrari,11,7,6,Finished,57
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,vergne,toro_rosso,6,8,4,Finished,57
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,kvyat,toro_rosso,8,9,2,Finished,57
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,perez,force_india,16,10,1,Finished,57
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,sutil,sauber,13,11,0,+1 Lap,56
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,gutierrez,sauber,20,12,0,+1 Lap,56
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,chilton,marussia,17,13,0,+2 Laps,55
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,jules_bianchi,marussia,18,14,0,+8 Laps,49
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,grosjean,lotus_f1,22,15,0,ERS,43
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,maldonado,lotus_f1,21,16,0,ERS,29
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,ericsson,caterham,19,17,0,Oil pressure,27
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,vettel,red_bull,12,18,0,Engine,3
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,hamilton,mercedes,1,19,0,Engine,2
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,massa,williams,9,20,0,Collision,0
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,kobayashi,caterham,14,21,0,Collision,0
+2014,1,2014-03-16,Albert Park Grand Prix Circuit,ricciardo,red_bull,2,22,0,Disqualified,57
+2014,2,2014-03-30,Sepang International Circuit,hamilton,mercedes,1,1,25,Finished,56
+2014,2,2014-03-30,Sepang International Circuit,rosberg,mercedes,3,2,18,Finished,56
+2014,2,2014-03-30,Sepang International Circuit,vettel,red_bull,2,3,15,Finished,56
+2014,2,2014-03-30,Sepang International Circuit,alonso,ferrari,4,4,12,Finished,56
+2014,2,2014-03-30,Sepang International Circuit,hulkenberg,force_india,7,5,10,Finished,56
+2014,2,2014-03-30,Sepang International Circuit,button,mclaren,10,6,8,Finished,56
+2014,2,2014-03-30,Sepang International Circuit,massa,williams,13,7,6,Finished,56
+2014,2,2014-03-30,Sepang International Circuit,bottas,williams,18,8,4,Finished,56
+2014,2,2014-03-30,Sepang International Circuit,kevin_magnussen,mclaren,8,9,2,+1 Lap,55
+2014,2,2014-03-30,Sepang International Circuit,kvyat,toro_rosso,11,10,1,+1 Lap,55
+2014,2,2014-03-30,Sepang International Circuit,grosjean,lotus_f1,15,11,0,+1 Lap,55
+2014,2,2014-03-30,Sepang International Circuit,raikkonen,ferrari,6,12,0,+1 Lap,55
+2014,2,2014-03-30,Sepang International Circuit,kobayashi,caterham,20,13,0,+1 Lap,55
+2014,2,2014-03-30,Sepang International Circuit,ericsson,caterham,22,14,0,+2 Laps,54
+2014,2,2014-03-30,Sepang International Circuit,chilton,marussia,21,15,0,+2 Laps,54
+2014,2,2014-03-30,Sepang International Circuit,ricciardo,red_bull,5,16,0,Technical,49
+2014,2,2014-03-30,Sepang International Circuit,gutierrez,sauber,12,17,0,Gearbox,35
+2014,2,2014-03-30,Sepang International Circuit,sutil,sauber,17,18,0,Electrical,32
+2014,2,2014-03-30,Sepang International Circuit,vergne,toro_rosso,9,19,0,Power Unit,18
+2014,2,2014-03-30,Sepang International Circuit,jules_bianchi,marussia,19,20,0,Brakes,8
+2014,2,2014-03-30,Sepang International Circuit,maldonado,lotus_f1,16,21,0,Engine,7
+2014,2,2014-03-30,Sepang International Circuit,perez,force_india,14,22,0,Withdrew,0
+2014,3,2014-04-06,Bahrain International Circuit,hamilton,mercedes,2,1,25,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,rosberg,mercedes,1,2,18,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,perez,force_india,4,3,15,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,ricciardo,red_bull,13,4,12,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,hulkenberg,force_india,11,5,10,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,vettel,red_bull,10,6,8,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,massa,williams,7,7,6,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,bottas,williams,3,8,4,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,alonso,ferrari,9,9,2,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,raikkonen,ferrari,5,10,1,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,kvyat,toro_rosso,12,11,0,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,grosjean,lotus_f1,16,12,0,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,chilton,marussia,21,13,0,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,maldonado,lotus_f1,17,14,0,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,kobayashi,caterham,18,15,0,Finished,57
+2014,3,2014-04-06,Bahrain International Circuit,jules_bianchi,marussia,19,16,0,+1 Lap,56
+2014,3,2014-04-06,Bahrain International Circuit,button,mclaren,6,17,0,Clutch,55
+2014,3,2014-04-06,Bahrain International Circuit,kevin_magnussen,mclaren,8,18,0,Clutch,40
+2014,3,2014-04-06,Bahrain International Circuit,gutierrez,sauber,15,19,0,Collision,39
+2014,3,2014-04-06,Bahrain International Circuit,ericsson,caterham,20,20,0,Retired,33
+2014,3,2014-04-06,Bahrain International Circuit,vergne,toro_rosso,14,21,0,Retired,18
+2014,3,2014-04-06,Bahrain International Circuit,sutil,sauber,22,22,0,Collision,17
+2014,4,2014-04-20,Shanghai International Circuit,hamilton,mercedes,1,1,25,Finished,54
+2014,4,2014-04-20,Shanghai International Circuit,rosberg,mercedes,4,2,18,Finished,54
+2014,4,2014-04-20,Shanghai International Circuit,alonso,ferrari,5,3,15,Finished,54
+2014,4,2014-04-20,Shanghai International Circuit,ricciardo,red_bull,2,4,12,Finished,54
+2014,4,2014-04-20,Shanghai International Circuit,vettel,red_bull,3,5,10,Finished,54
+2014,4,2014-04-20,Shanghai International Circuit,hulkenberg,force_india,8,6,8,Finished,54
+2014,4,2014-04-20,Shanghai International Circuit,bottas,williams,7,7,6,Finished,54
+2014,4,2014-04-20,Shanghai International Circuit,raikkonen,ferrari,11,8,4,Finished,54
+2014,4,2014-04-20,Shanghai International Circuit,perez,force_india,16,9,2,Finished,54
+2014,4,2014-04-20,Shanghai International Circuit,kvyat,toro_rosso,13,10,1,+1 Lap,53
+2014,4,2014-04-20,Shanghai International Circuit,button,mclaren,12,11,0,+1 Lap,53
+2014,4,2014-04-20,Shanghai International Circuit,vergne,toro_rosso,9,12,0,+1 Lap,53
+2014,4,2014-04-20,Shanghai International Circuit,kevin_magnussen,mclaren,15,13,0,+1 Lap,53
+2014,4,2014-04-20,Shanghai International Circuit,maldonado,lotus_f1,22,14,0,+1 Lap,53
+2014,4,2014-04-20,Shanghai International Circuit,massa,williams,6,15,0,+1 Lap,53
+2014,4,2014-04-20,Shanghai International Circuit,gutierrez,sauber,17,16,0,+1 Lap,53
+2014,4,2014-04-20,Shanghai International Circuit,jules_bianchi,marussia,19,17,0,+1 Lap,53
+2014,4,2014-04-20,Shanghai International Circuit,kobayashi,caterham,18,18,0,+1 Lap,53
+2014,4,2014-04-20,Shanghai International Circuit,chilton,marussia,21,19,0,+2 Laps,52
+2014,4,2014-04-20,Shanghai International Circuit,ericsson,caterham,20,20,0,+2 Laps,52
+2014,4,2014-04-20,Shanghai International Circuit,grosjean,lotus_f1,10,21,0,Gearbox,28
+2014,4,2014-04-20,Shanghai International Circuit,sutil,sauber,14,22,0,Engine,5
+2014,5,2014-05-11,Circuit de Barcelona-Catalunya,hamilton,mercedes,1,1,25,Finished,66
+2014,5,2014-05-11,Circuit de Barcelona-Catalunya,rosberg,mercedes,2,2,18,Finished,66
+2014,5,2014-05-11,Circuit de Barcelona-Catalunya,ricciardo,red_bull,3,3,15,Finished,66
+2014,5,2014-05-11,Circuit de Barcelona-Catalunya,vettel,red_bull,15,4,12,Finished,66
+2014,5,2014-05-11,Circuit de Barcelona-Catalunya,bottas,williams,4,5,10,Finished,66
+2014,5,2014-05-11,Circuit de Barcelona-Catalunya,alonso,ferrari,7,6,8,Finished,66
+2014,5,2014-05-11,Circuit de Barcelona-Catalunya,raikkonen,ferrari,6,7,6,+1 Lap,65
+2014,5,2014-05-11,Circuit de Barcelona-Catalunya,grosjean,lotus_f1,5,8,4,+1 Lap,65
+2014,5,2014-05-11,Circuit de Barcelona-Catalunya,perez,force_india,11,9,2,+1 Lap,65
+2014,5,2014-05-11,Circuit de Barcelona-Catalunya,hulkenberg,force_india,10,10,1,+1 Lap,65
+2014,5,2014-05-11,Circuit de Barcelona-Catalunya,button,mclaren,8,11,0,+1 Lap,65
+2014,5,2014-05-11,Circuit de Barcelona-Catalunya,kevin_magnussen,mclaren,14,12,0,+1 Lap,65
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,hamilton,mercedes,1,1,25,Finished,58
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,rosberg,mercedes,2,2,18,Finished,58
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,vettel,ferrari,4,3,15,Finished,58
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,massa,williams,3,4,12,Finished,58
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,nasr,sauber,10,5,10,Finished,58
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,ricciardo,red_bull,6,6,8,+1 Lap,57
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,hulkenberg,force_india,13,7,6,+1 Lap,57
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,ericsson,sauber,15,8,4,+1 Lap,57
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,sainz,toro_rosso,7,9,2,+1 Lap,57
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,perez,force_india,14,10,1,+1 Lap,57
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,button,mclaren,16,11,0,+2 Laps,56
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,raikkonen,ferrari,5,12,0,Wheel,40
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,max_verstappen,toro_rosso,11,13,0,Engine,32
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,grosjean,lotus_f1,8,14,0,Power loss,0
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,maldonado,lotus_f1,9,15,0,Accident,0
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,kvyat,red_bull,12,16,0,Withdrew,0
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,kevin_magnussen,mclaren,17,17,0,Withdrew,0
+2015,1,2015-03-15,Albert Park Grand Prix Circuit,bottas,williams,0,18,0,Withdrew,0
+2015,2,2015-03-29,Sepang International Circuit,vettel,ferrari,2,1,25,Finished,56
+2015,2,2015-03-29,Sepang International Circuit,hamilton,mercedes,1,2,18,Finished,56
+2015,2,2015-03-29,Sepang International Circuit,rosberg,mercedes,3,3,15,Finished,56
+2015,2,2015-03-29,Sepang International Circuit,raikkonen,ferrari,11,4,12,Finished,56
+2015,2,2015-03-29,Sepang International Circuit,bottas,williams,8,5,10,Finished,56
+2015,2,2015-03-29,Sepang International Circuit,massa,williams,7,6,8,Finished,56
+2015,2,2015-03-29,Sepang International Circuit,max_verstappen,toro_rosso,6,7,6,Finished,56
+2015,2,2015-03-29,Sepang International Circuit,sainz,toro_rosso,15,8,4,+1 Lap,55
+2015,2,2015-03-29,Sepang International Circuit,kvyat,red_bull,5,9,2,+1 Lap,55
+2015,2,2015-03-29,Sepang International Circuit,ricciardo,red_bull,4,10,1,+1 Lap,55
+2015,2,2015-03-29,Sepang International Circuit,grosjean,lotus_f1,10,11,0,+1 Lap,55
+2015,2,2015-03-29,Sepang International Circuit,nasr,sauber,16,12,0,+1 Lap,55
+2015,2,2015-03-29,Sepang International Circuit,perez,force_india,14,13,0,+1 Lap,55
+2015,2,2015-03-29,Sepang International Circuit,hulkenberg,force_india,13,14,0,+1 Lap,55
+2015,2,2015-03-29,Sepang International Circuit,merhi,manor,19,15,0,+3 Laps,53
+2015,2,2015-03-29,Sepang International Circuit,maldonado,lotus_f1,12,16,0,Retired,47
+2015,2,2015-03-29,Sepang International Circuit,button,mclaren,17,17,0,Turbo,41
+2015,2,2015-03-29,Sepang International Circuit,alonso,mclaren,18,18,0,ERS,21
+2015,2,2015-03-29,Sepang International Circuit,ericsson,sauber,9,19,0,Spun off,3
+2015,2,2015-03-29,Sepang International Circuit,stevens,manor,0,20,0,Fuel system,0
+2015,3,2015-04-12,Shanghai International Circuit,hamilton,mercedes,1,1,25,Finished,56
+2015,3,2015-04-12,Shanghai International Circuit,rosberg,mercedes,2,2,18,Finished,56
+2015,3,2015-04-12,Shanghai International Circuit,vettel,ferrari,3,3,15,Finished,56
+2015,3,2015-04-12,Shanghai International Circuit,raikkonen,ferrari,6,4,12,Finished,56
+2015,3,2015-04-12,Shanghai International Circuit,massa,williams,4,5,10,Finished,56
+2015,3,2015-04-12,Shanghai International Circuit,bottas,williams,5,6,8,Finished,56
+2015,3,2015-04-12,Shanghai International Circuit,grosjean,lotus_f1,8,7,6,Finished,56
+2015,3,2015-04-12,Shanghai International Circuit,nasr,sauber,9,8,4,Finished,56
+2015,3,2015-04-12,Shanghai International Circuit,ricciardo,red_bull,7,9,2,Finished,56
+2015,3,2015-04-12,Shanghai International Circuit,ericsson,sauber,10,10,1,+1 Lap,55
+2015,3,2015-04-12,Shanghai International Circuit,perez,force_india,15,11,0,+1 Lap,55
+2015,3,2015-04-12,Shanghai International Circuit,alonso,mclaren,18,12,0,+1 Lap,55
+2015,3,2015-04-12,Shanghai International Circuit,sainz,toro_rosso,14,13,0,+1 Lap,55
+2015,3,2015-04-12,Shanghai International Circuit,button,mclaren,17,14,0,+1 Lap,55
+2015,3,2015-04-12,Shanghai International Circuit,stevens,manor,19,15,0,+2 Laps,54
+2015,3,2015-04-12,Shanghai International Circuit,merhi,manor,20,16,0,+2 Laps,54
+2015,3,2015-04-12,Shanghai International Circuit,max_verstappen,toro_rosso,13,17,0,Transmission,52
+2015,3,2015-04-12,Shanghai International Circuit,maldonado,lotus_f1,11,18,0,Brakes,49
+2015,3,2015-04-12,Shanghai International Circuit,kvyat,red_bull,12,19,0,Power Unit,15
+2015,3,2015-04-12,Shanghai International Circuit,hulkenberg,force_india,16,20,0,Gearbox,9
+2015,4,2015-04-19,Bahrain International Circuit,hamilton,mercedes,1,1,25,Finished,57
+2015,4,2015-04-19,Bahrain International Circuit,raikkonen,ferrari,4,2,18,Finished,57
+2015,4,2015-04-19,Bahrain International Circuit,rosberg,mercedes,3,3,15,Finished,57
+2015,4,2015-04-19,Bahrain International Circuit,bottas,williams,5,4,12,Finished,57
+2015,4,2015-04-19,Bahrain International Circuit,vettel,ferrari,2,5,10,Finished,57
+2015,4,2015-04-19,Bahrain International Circuit,ricciardo,red_bull,7,6,8,Finished,57
+2015,4,2015-04-19,Bahrain International Circuit,grosjean,lotus_f1,10,7,6,Finished,57
+2015,4,2015-04-19,Bahrain International Circuit,perez,force_india,11,8,4,+1 Lap,56
+2015,4,2015-04-19,Bahrain International Circuit,kvyat,red_bull,17,9,2,+1 Lap,56
+2015,4,2015-04-19,Bahrain International Circuit,massa,williams,6,10,1,+1 Lap,56
+2015,4,2015-04-19,Bahrain International Circuit,alonso,mclaren,14,11,0,+1 Lap,56
+2015,4,2015-04-19,Bahrain International Circuit,nasr,sauber,12,12,0,+1 Lap,56
+2015,4,2015-04-19,Bahrain International Circuit,hulkenberg,force_india,8,13,0,+1 Lap,56
+2015,4,2015-04-19,Bahrain International Circuit,ericsson,sauber,13,14,0,+1 Lap,56
+2015,4,2015-04-19,Bahrain International Circuit,maldonado,lotus_f1,16,15,0,+1 Lap,56
+2015,4,2015-04-19,Bahrain International Circuit,stevens,manor,18,16,0,+2 Laps,55
+2015,4,2015-04-19,Bahrain International Circuit,merhi,manor,19,17,0,+3 Laps,54
+2015,4,2015-04-19,Bahrain International Circuit,max_verstappen,toro_rosso,15,18,0,Electrical,34
+2015,4,2015-04-19,Bahrain International Circuit,sainz,toro_rosso,9,19,0,Engine,29
+2015,4,2015-04-19,Bahrain International Circuit,button,mclaren,20,20,0,ERS,0
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,rosberg,mercedes,1,1,25,Finished,66
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,hamilton,mercedes,2,2,18,Finished,66
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,vettel,ferrari,3,3,15,Finished,66
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,bottas,williams,4,4,12,Finished,66
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,raikkonen,ferrari,7,5,10,Finished,66
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,massa,williams,9,6,8,Finished,66
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,ricciardo,red_bull,10,7,6,+1 Lap,65
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,grosjean,lotus_f1,11,8,4,+1 Lap,65
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,sainz,toro_rosso,5,9,2,+1 Lap,65
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,kvyat,red_bull,8,10,1,+1 Lap,65
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,max_verstappen,toro_rosso,6,11,0,+1 Lap,65
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,nasr,sauber,15,12,0,+1 Lap,65
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,perez,force_india,18,13,0,+1 Lap,65
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,ericsson,sauber,16,14,0,+1 Lap,65
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,hulkenberg,force_india,17,15,0,+1 Lap,65
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,button,mclaren,14,16,0,+1 Lap,65
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,stevens,manor,19,17,0,+3 Laps,63
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,merhi,manor,20,18,0,+4 Laps,62
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,maldonado,lotus_f1,12,19,0,Accident,45
+2015,5,2015-05-10,Circuit de Barcelona-Catalunya,alonso,mclaren,13,20,0,Brakes,26
+2015,6,2015-05-24,Circuit de Monaco,rosberg,mercedes,2,1,25,Finished,78
+2015,6,2015-05-24,Circuit de Monaco,vettel,ferrari,3,2,18,Finished,78
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,rosberg,mercedes,2,1,25,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,hamilton,mercedes,1,2,18,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,vettel,ferrari,3,3,15,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,ricciardo,red_bull,8,4,12,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,massa,williams,6,5,10,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,grosjean,haas,19,6,8,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,hulkenberg,force_india,10,7,6,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,bottas,williams,16,8,4,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,sainz,toro_rosso,7,9,2,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,max_verstappen,toro_rosso,5,10,1,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,jolyon_palmer,renault,13,11,0,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,kevin_magnussen,renault,14,12,0,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,perez,force_india,9,13,0,Finished,57
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,button,mclaren,12,14,0,+1 Lap,56
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,nasr,sauber,17,15,0,+1 Lap,56
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,wehrlein,manor,21,16,0,+1 Lap,56
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,ericsson,sauber,15,17,0,Engine,38
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,raikkonen,ferrari,4,18,0,Engine,21
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,haryanto,manor,22,19,0,Mechanical,17
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,gutierrez,haas,20,20,0,Collision,16
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,alonso,mclaren,11,21,0,Collision,16
+2016,1,2016-03-20,Albert Park Grand Prix Circuit,kvyat,red_bull,18,22,0,Retired,0
+2016,2,2016-04-03,Bahrain International Circuit,rosberg,mercedes,2,1,25,Finished,57
+2016,2,2016-04-03,Bahrain International Circuit,raikkonen,ferrari,4,2,18,Finished,57
+2016,2,2016-04-03,Bahrain International Circuit,hamilton,mercedes,1,3,15,Finished,57
+2016,2,2016-04-03,Bahrain International Circuit,ricciardo,red_bull,5,4,12,Finished,57
+2016,2,2016-04-03,Bahrain International Circuit,grosjean,haas,9,5,10,Finished,57
+2016,2,2016-04-03,Bahrain International Circuit,max_verstappen,toro_rosso,10,6,8,Finished,57
+2016,2,2016-04-03,Bahrain International Circuit,kvyat,red_bull,15,7,6,+1 Lap,56
+2016,2,2016-04-03,Bahrain International Circuit,massa,williams,7,8,4,+1 Lap,56
+2016,2,2016-04-03,Bahrain International Circuit,bottas,williams,6,9,2,+1 Lap,56
+2016,2,2016-04-03,Bahrain International Circuit,vandoorne,mclaren,12,10,1,+1 Lap,56
+2016,2,2016-04-03,Bahrain International Circuit,kevin_magnussen,renault,22,11,0,+1 Lap,56
+2016,2,2016-04-03,Bahrain International Circuit,ericsson,sauber,17,12,0,+1 Lap,56
+2016,2,2016-04-03,Bahrain International Circuit,wehrlein,manor,16,13,0,+1 Lap,56
+2016,2,2016-04-03,Bahrain International Circuit,nasr,sauber,21,14,0,+1 Lap,56
+2016,2,2016-04-03,Bahrain International Circuit,hulkenberg,force_india,8,15,0,+1 Lap,56
+2016,2,2016-04-03,Bahrain International Circuit,perez,force_india,18,16,0,+1 Lap,56
+2016,2,2016-04-03,Bahrain International Circuit,haryanto,manor,20,17,0,+1 Lap,56
+2016,2,2016-04-03,Bahrain International Circuit,sainz,toro_rosso,11,18,0,Retired,29
+2016,2,2016-04-03,Bahrain International Circuit,gutierrez,haas,13,19,0,Retired,9
+2016,2,2016-04-03,Bahrain International Circuit,button,mclaren,14,20,0,Power Unit,6
+2016,2,2016-04-03,Bahrain International Circuit,vettel,ferrari,3,21,0,Engine,0
+2016,2,2016-04-03,Bahrain International Circuit,jolyon_palmer,renault,19,22,0,Hydraulics,0
+2016,3,2016-04-17,Shanghai International Circuit,rosberg,mercedes,1,1,25,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,vettel,ferrari,4,2,18,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,kvyat,red_bull,6,3,15,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,ricciardo,red_bull,2,4,12,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,raikkonen,ferrari,3,5,10,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,massa,williams,10,6,8,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,hamilton,mercedes,22,7,6,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,max_verstappen,toro_rosso,9,8,4,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,sainz,toro_rosso,8,9,2,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,bottas,williams,5,10,1,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,perez,force_india,7,11,0,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,alonso,mclaren,11,12,0,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,button,mclaren,12,13,0,Finished,56
+2016,3,2016-04-17,Shanghai International Circuit,gutierrez,haas,18,14,0,+1 Lap,55
+2016,3,2016-04-17,Shanghai International Circuit,hulkenberg,force_india,13,15,0,+1 Lap,55
+2016,3,2016-04-17,Shanghai International Circuit,ericsson,sauber,15,16,0,+1 Lap,55
+2016,3,2016-04-17,Shanghai International Circuit,kevin_magnussen,renault,17,17,0,+1 Lap,55
+2016,3,2016-04-17,Shanghai International Circuit,wehrlein,manor,21,18,0,+1 Lap,55
+2016,3,2016-04-17,Shanghai International Circuit,grosjean,haas,14,19,0,+1 Lap,55
+2016,3,2016-04-17,Shanghai International Circuit,nasr,sauber,16,20,0,+1 Lap,55
+2016,3,2016-04-17,Shanghai International Circuit,haryanto,manor,20,21,0,+1 Lap,55
+2016,3,2016-04-17,Shanghai International Circuit,jolyon_palmer,renault,19,22,0,+1 Lap,55
+2016,4,2016-05-01,Sochi Autodrom,rosberg,mercedes,1,1,25,Finished,53
+2016,4,2016-05-01,Sochi Autodrom,hamilton,mercedes,10,2,18,Finished,53
+2016,4,2016-05-01,Sochi Autodrom,raikkonen,ferrari,3,3,15,Finished,53
+2016,4,2016-05-01,Sochi Autodrom,bottas,williams,2,4,12,Finished,53
+2016,4,2016-05-01,Sochi Autodrom,massa,williams,4,5,10,Finished,53
+2016,4,2016-05-01,Sochi Autodrom,alonso,mclaren,14,6,8,+1 Lap,52
+2016,4,2016-05-01,Sochi Autodrom,kevin_magnussen,renault,17,7,6,+1 Lap,52
+2016,4,2016-05-01,Sochi Autodrom,grosjean,haas,15,8,4,+1 Lap,52
+2016,4,2016-05-01,Sochi Autodrom,perez,force_india,6,9,2,+1 Lap,52
+2016,4,2016-05-01,Sochi Autodrom,button,mclaren,12,10,1,+1 Lap,52
+2016,4,2016-05-01,Sochi Autodrom,ricciardo,red_bull,5,11,0,+1 Lap,52
+2016,4,2016-05-01,Sochi Autodrom,sainz,toro_rosso,11,12,0,+1 Lap,52
+2016,4,2016-05-01,Sochi Autodrom,jolyon_palmer,renault,18,13,0,+1 Lap,52
+2016,4,2016-05-01,Sochi Autodrom,ericsson,sauber,22,14,0,+1 Lap,52
+2016,4,2016-05-01,Sochi Autodrom,kvyat,red_bull,8,15,0,+1 Lap,52
+2016,4,2016-05-01,Sochi Autodrom,nasr,sauber,19,16,0,+1 Lap,52
+2016,4,2016-05-01,Sochi Autodrom,gutierrez,haas,16,17,0,+1 Lap,52
+2016,4,2016-05-01,Sochi Autodrom,wehrlein,manor,20,18,0,+2 Laps,51
+2016,4,2016-05-01,Sochi Autodrom,max_verstappen,toro_rosso,9,19,0,Power Unit,33
+2016,4,2016-05-01,Sochi Autodrom,vettel,ferrari,7,20,0,Collision,0
+2016,4,2016-05-01,Sochi Autodrom,hulkenberg,force_india,13,21,0,Collision,0
+2016,4,2016-05-01,Sochi Autodrom,haryanto,manor,21,22,0,Collision,0
+2016,5,2016-05-15,Circuit de Barcelona-Catalunya,max_verstappen,red_bull,4,1,25,Finished,66
+2016,5,2016-05-15,Circuit de Barcelona-Catalunya,raikkonen,ferrari,5,2,18,Finished,66
+2016,5,2016-05-15,Circuit de Barcelona-Catalunya,vettel,ferrari,6,3,15,Finished,66
+2016,5,2016-05-15,Circuit de Barcelona-Catalunya,ricciardo,red_bull,3,4,12,Finished,66
+2016,5,2016-05-15,Circuit de Barcelona-Catalunya,bottas,williams,7,5,10,Finished,66
+2016,5,2016-05-15,Circuit de Barcelona-Catalunya,sainz,toro_rosso,8,6,8,Finished,66
+2016,5,2016-05-15,Circuit de Barcelona-Catalunya,perez,force_india,9,7,6,Finished,66
+2016,5,2016-05-15,Circuit de Barcelona-Catalunya,massa,williams,18,8,4,Finished,66
+2016,5,2016-05-15,Circuit de Barcelona-Catalunya,button,mclaren,12,9,2,+1 Lap,65
+2016,5,2016-05-15,Circuit de Barcelona-Catalunya,kvyat,toro_rosso,13,10,1,+1 Lap,65
+2016,5,2016-05-15,Circuit de Barcelona-Catalunya,gutierrez,haas,16,11,0,+1 Lap,65
+2016,5,2016-05-15,Circuit de Barcelona-Catalunya,ericsson,sauber,19,12,0,+1 Lap,65
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,vettel,ferrari,2,1,25,Finished,57
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,hamilton,mercedes,1,2,18,Finished,57
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,bottas,mercedes,3,3,15,Finished,57
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,raikkonen,ferrari,4,4,12,Finished,57
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,max_verstappen,red_bull,5,5,10,Finished,57
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,massa,williams,7,6,8,Finished,57
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,perez,force_india,10,7,6,+1 Lap,56
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,sainz,toro_rosso,8,8,4,+1 Lap,56
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,kvyat,toro_rosso,9,9,2,+1 Lap,56
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,ocon,force_india,13,10,1,+1 Lap,56
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,hulkenberg,renault,11,11,0,+1 Lap,56
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,giovinazzi,sauber,16,12,0,+2 Laps,55
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,vandoorne,mclaren,18,13,0,+2 Laps,55
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,alonso,mclaren,12,14,0,Vibrations,50
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,kevin_magnussen,haas,17,15,0,Suspension,46
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,stroll,williams,20,16,0,Brakes,40
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,ricciardo,red_bull,0,17,0,Power Unit,25
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,ericsson,sauber,14,18,0,Hydraulics,21
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,jolyon_palmer,renault,19,19,0,Brakes,15
+2017,1,2017-03-26,Albert Park Grand Prix Circuit,grosjean,haas,6,20,0,Water leak,13
+2017,2,2017-04-09,Shanghai International Circuit,hamilton,mercedes,1,1,25,Finished,56
+2017,2,2017-04-09,Shanghai International Circuit,vettel,ferrari,2,2,18,Finished,56
+2017,2,2017-04-09,Shanghai International Circuit,max_verstappen,red_bull,16,3,15,Finished,56
+2017,2,2017-04-09,Shanghai International Circuit,ricciardo,red_bull,5,4,12,Finished,56
+2017,2,2017-04-09,Shanghai International Circuit,raikkonen,ferrari,4,5,10,Finished,56
+2017,2,2017-04-09,Shanghai International Circuit,bottas,mercedes,3,6,8,Finished,56
+2017,2,2017-04-09,Shanghai International Circuit,sainz,toro_rosso,11,7,6,Finished,56
+2017,2,2017-04-09,Shanghai International Circuit,kevin_magnussen,haas,12,8,4,+1 Lap,55
+2017,2,2017-04-09,Shanghai International Circuit,perez,force_india,8,9,2,+1 Lap,55
+2017,2,2017-04-09,Shanghai International Circuit,ocon,force_india,17,10,1,+1 Lap,55
+2017,2,2017-04-09,Shanghai International Circuit,grosjean,haas,19,11,0,+1 Lap,55
+2017,2,2017-04-09,Shanghai International Circuit,hulkenberg,renault,7,12,0,+1 Lap,55
+2017,2,2017-04-09,Shanghai International Circuit,jolyon_palmer,renault,20,13,0,+1 Lap,55
+2017,2,2017-04-09,Shanghai International Circuit,massa,williams,6,14,0,+1 Lap,55
+2017,2,2017-04-09,Shanghai International Circuit,ericsson,sauber,14,15,0,+1 Lap,55
+2017,2,2017-04-09,Shanghai International Circuit,alonso,mclaren,13,16,0,Driveshaft,33
+2017,2,2017-04-09,Shanghai International Circuit,kvyat,toro_rosso,9,17,0,Hydraulics,18
+2017,2,2017-04-09,Shanghai International Circuit,vandoorne,mclaren,15,18,0,Fuel pressure,17
+2017,2,2017-04-09,Shanghai International Circuit,giovinazzi,sauber,18,19,0,Accident,3
+2017,2,2017-04-09,Shanghai International Circuit,stroll,williams,10,20,0,Collision,0
+2017,3,2017-04-16,Bahrain International Circuit,vettel,ferrari,3,1,25,Finished,57
+2017,3,2017-04-16,Bahrain International Circuit,hamilton,mercedes,2,2,18,Finished,57
+2017,3,2017-04-16,Bahrain International Circuit,bottas,mercedes,1,3,15,Finished,57
+2017,3,2017-04-16,Bahrain International Circuit,raikkonen,ferrari,5,4,12,Finished,57
+2017,3,2017-04-16,Bahrain International Circuit,ricciardo,red_bull,4,5,10,Finished,57
+2017,3,2017-04-16,Bahrain International Circuit,massa,williams,8,6,8,Finished,57
+2017,3,2017-04-16,Bahrain International Circuit,perez,force_india,18,7,6,Finished,57
+2017,3,2017-04-16,Bahrain International Circuit,grosjean,haas,9,8,4,Finished,57
+2017,3,2017-04-16,Bahrain International Circuit,hulkenberg,renault,7,9,2,Finished,57
+2017,3,2017-04-16,Bahrain International Circuit,ocon,force_india,14,10,1,Finished,57
+2017,3,2017-04-16,Bahrain International Circuit,wehrlein,sauber,13,11,0,+1 Lap,56
+2017,3,2017-04-16,Bahrain International Circuit,kvyat,toro_rosso,11,12,0,+1 Lap,56
+2017,3,2017-04-16,Bahrain International Circuit,jolyon_palmer,renault,10,13,0,+1 Lap,56
+2017,3,2017-04-16,Bahrain International Circuit,alonso,mclaren,15,14,0,Power Unit,54
+2017,3,2017-04-16,Bahrain International Circuit,ericsson,sauber,19,15,0,Gearbox,50
+2017,3,2017-04-16,Bahrain International Circuit,sainz,toro_rosso,16,16,0,Collision,12
+2017,3,2017-04-16,Bahrain International Circuit,stroll,williams,12,17,0,Collision,12
+2017,3,2017-04-16,Bahrain International Circuit,max_verstappen,red_bull,6,18,0,Brakes,11
+2017,3,2017-04-16,Bahrain International Circuit,kevin_magnussen,haas,20,19,0,Electrical,8
+2017,3,2017-04-16,Bahrain International Circuit,vandoorne,mclaren,17,20,0,Power Unit,0
+2017,4,2017-04-30,Sochi Autodrom,bottas,mercedes,3,1,25,Finished,52
+2017,4,2017-04-30,Sochi Autodrom,vettel,ferrari,1,2,18,Finished,52
+2017,4,2017-04-30,Sochi Autodrom,raikkonen,ferrari,2,3,15,Finished,52
+2017,4,2017-04-30,Sochi Autodrom,hamilton,mercedes,4,4,12,Finished,52
+2017,4,2017-04-30,Sochi Autodrom,max_verstappen,red_bull,7,5,10,Finished,52
+2017,4,2017-04-30,Sochi Autodrom,perez,force_india,9,6,8,Finished,52
+2017,4,2017-04-30,Sochi Autodrom,ocon,force_india,10,7,6,Finished,52
+2017,4,2017-04-30,Sochi Autodrom,hulkenberg,renault,8,8,4,Finished,52
+2017,4,2017-04-30,Sochi Autodrom,massa,williams,6,9,2,+1 Lap,51
+2017,4,2017-04-30,Sochi Autodrom,sainz,toro_rosso,14,10,1,+1 Lap,51
+2017,4,2017-04-30,Sochi Autodrom,stroll,williams,11,11,0,+1 Lap,51
+2017,4,2017-04-30,Sochi Autodrom,kvyat,toro_rosso,12,12,0,+1 Lap,51
+2017,4,2017-04-30,Sochi Autodrom,kevin_magnussen,haas,13,13,0,+1 Lap,51
+2017,4,2017-04-30,Sochi Autodrom,vandoorne,mclaren,20,14,0,+1 Lap,51
+2017,4,2017-04-30,Sochi Autodrom,ericsson,sauber,18,15,0,+1 Lap,51
+2017,4,2017-04-30,Sochi Autodrom,wehrlein,sauber,17,16,0,+2 Laps,50
+2017,4,2017-04-30,Sochi Autodrom,ricciardo,red_bull,5,17,0,Brakes,5
+2017,4,2017-04-30,Sochi Autodrom,jolyon_palmer,renault,16,18,0,Collision,0
+2017,4,2017-04-30,Sochi Autodrom,grosjean,haas,19,19,0,Collision,0
+2017,4,2017-04-30,Sochi Autodrom,alonso,mclaren,15,20,0,Power Unit,0
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,hamilton,mercedes,1,1,25,Finished,66
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,vettel,ferrari,2,2,18,Finished,66
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,ricciardo,red_bull,6,3,15,Finished,66
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,perez,force_india,8,4,12,+1 Lap,65
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,ocon,force_india,10,5,10,+1 Lap,65
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,hulkenberg,renault,13,6,8,+1 Lap,65
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,sainz,toro_rosso,12,7,6,+1 Lap,65
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,wehrlein,sauber,15,8,4,+1 Lap,65
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,kvyat,toro_rosso,19,9,2,+1 Lap,65
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,grosjean,haas,14,10,1,+1 Lap,65
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,ericsson,sauber,16,11,0,+2 Laps,64
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,alonso,mclaren,7,12,0,+2 Laps,64
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,massa,williams,9,13,0,+2 Laps,64
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,kevin_magnussen,haas,11,14,0,+2 Laps,64
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,jolyon_palmer,renault,17,15,0,+2 Laps,64
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,stroll,williams,18,16,0,+2 Laps,64
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,bottas,mercedes,3,17,0,Power Unit,38
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,vandoorne,mclaren,20,18,0,Collision,32
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,max_verstappen,red_bull,5,19,0,Collision damage,1
+2017,5,2017-05-14,Circuit de Barcelona-Catalunya,raikkonen,ferrari,4,20,0,Collision damage,0
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,vettel,ferrari,3,1,25,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,hamilton,mercedes,1,2,18,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,raikkonen,ferrari,2,3,15,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,ricciardo,red_bull,8,4,12,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,alonso,mclaren,10,5,10,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,max_verstappen,red_bull,4,6,8,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,hulkenberg,renault,7,7,6,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,bottas,mercedes,15,8,4,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,vandoorne,mclaren,11,9,2,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,sainz,renault,9,10,1,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,perez,force_india,12,11,0,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,ocon,force_india,14,12,0,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,leclerc,sauber,18,13,0,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,stroll,williams,13,14,0,Finished,58
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,brendon_hartley,toro_rosso,16,15,0,+1 Lap,57
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,grosjean,haas,6,16,0,Wheel,24
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,kevin_magnussen,haas,5,17,0,Wheel,22
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,gasly,toro_rosso,20,18,0,Engine,13
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,ericsson,sauber,17,19,0,Steering,5
+2018,1,2018-03-25,Albert Park Grand Prix Circuit,sirotkin,williams,19,20,0,Brakes,4
+2018,2,2018-04-08,Bahrain International Circuit,vettel,ferrari,1,1,25,Finished,57
+2018,2,2018-04-08,Bahrain International Circuit,bottas,mercedes,3,2,18,Finished,57
+2018,2,2018-04-08,Bahrain International Circuit,hamilton,mercedes,9,3,15,Finished,57
+2018,2,2018-04-08,Bahrain International Circuit,gasly,toro_rosso,5,4,12,Finished,57
+2018,2,2018-04-08,Bahrain International Circuit,kevin_magnussen,haas,6,5,10,Finished,57
+2018,2,2018-04-08,Bahrain International Circuit,hulkenberg,renault,7,6,8,Finished,57
+2018,2,2018-04-08,Bahrain International Circuit,alonso,mclaren,13,7,6,+1 Lap,56
+2018,2,2018-04-08,Bahrain International Circuit,vandoorne,mclaren,14,8,4,+1 Lap,56
+2018,2,2018-04-08,Bahrain International Circuit,ericsson,sauber,17,9,2,+1 Lap,56
+2018,2,2018-04-08,Bahrain International Circuit,ocon,force_india,8,10,1,+1 Lap,56
+2018,2,2018-04-08,Bahrain International Circuit,sainz,renault,10,11,0,+1 Lap,56
+2018,2,2018-04-08,Bahrain International Circuit,leclerc,sauber,19,12,0,+1 Lap,56
+2018,2,2018-04-08,Bahrain International Circuit,grosjean,haas,16,13,0,+1 Lap,56
+2018,2,2018-04-08,Bahrain International Circuit,stroll,williams,20,14,0,+1 Lap,56
+2018,2,2018-04-08,Bahrain International Circuit,sirotkin,williams,18,15,0,+1 Lap,56
+2018,2,2018-04-08,Bahrain International Circuit,perez,force_india,12,16,0,+1 Lap,56
+2018,2,2018-04-08,Bahrain International Circuit,brendon_hartley,toro_rosso,11,17,0,+1 Lap,56
+2018,2,2018-04-08,Bahrain International Circuit,raikkonen,ferrari,2,18,0,Wheel,35
+2018,2,2018-04-08,Bahrain International Circuit,max_verstappen,red_bull,15,19,0,Puncture,3
+2018,2,2018-04-08,Bahrain International Circuit,ricciardo,red_bull,4,20,0,Electrical,1
+2018,3,2018-04-15,Shanghai International Circuit,ricciardo,red_bull,6,1,25,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,bottas,mercedes,3,2,18,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,raikkonen,ferrari,2,3,15,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,hamilton,mercedes,4,4,12,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,max_verstappen,red_bull,5,5,10,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,hulkenberg,renault,7,6,8,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,alonso,mclaren,13,7,6,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,vettel,ferrari,1,8,4,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,sainz,renault,9,9,2,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,kevin_magnussen,haas,11,10,1,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,ocon,force_india,12,11,0,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,perez,force_india,8,12,0,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,vandoorne,mclaren,14,13,0,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,stroll,williams,18,14,0,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,sirotkin,williams,16,15,0,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,ericsson,sauber,20,16,0,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,grosjean,haas,10,17,0,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,gasly,toro_rosso,17,18,0,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,leclerc,sauber,19,19,0,Finished,56
+2018,3,2018-04-15,Shanghai International Circuit,brendon_hartley,toro_rosso,15,20,0,Collision damage,51
+2018,4,2018-04-29,Baku City Circuit,hamilton,mercedes,2,1,25,Finished,51
+2018,4,2018-04-29,Baku City Circuit,raikkonen,ferrari,6,2,18,Finished,51
+2018,4,2018-04-29,Baku City Circuit,perez,force_india,8,3,15,Finished,51
+2018,4,2018-04-29,Baku City Circuit,vettel,ferrari,1,4,12,Finished,51
+2018,4,2018-04-29,Baku City Circuit,sainz,renault,9,5,10,Finished,51
+2018,4,2018-04-29,Baku City Circuit,leclerc,sauber,13,6,8,Finished,51
+2018,4,2018-04-29,Baku City Circuit,alonso,mclaren,12,7,6,Finished,51
+2018,4,2018-04-29,Baku City Circuit,stroll,williams,10,8,4,Finished,51
+2018,4,2018-04-29,Baku City Circuit,vandoorne,mclaren,16,9,2,Finished,51
+2018,4,2018-04-29,Baku City Circuit,brendon_hartley,toro_rosso,19,10,1,Finished,51
+2018,4,2018-04-29,Baku City Circuit,ericsson,sauber,18,11,0,Finished,51
+2018,4,2018-04-29,Baku City Circuit,gasly,toro_rosso,17,12,0,Finished,51
+2018,4,2018-04-29,Baku City Circuit,kevin_magnussen,haas,15,13,0,Finished,51
+2018,4,2018-04-29,Baku City Circuit,bottas,mercedes,3,14,0,Puncture,48
+2018,4,2018-04-29,Baku City Circuit,grosjean,haas,20,15,0,Accident,42
+2018,4,2018-04-29,Baku City Circuit,max_verstappen,red_bull,5,16,0,Collision,39
+2018,4,2018-04-29,Baku City Circuit,ricciardo,red_bull,4,17,0,Collision,39
+2018,4,2018-04-29,Baku City Circuit,hulkenberg,renault,14,18,0,Accident,10
+2018,4,2018-04-29,Baku City Circuit,ocon,force_india,7,19,0,Collision,0
+2018,4,2018-04-29,Baku City Circuit,sirotkin,williams,11,20,0,Collision,0
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,hamilton,mercedes,1,1,25,Finished,66
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,bottas,mercedes,2,2,18,Finished,66
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,max_verstappen,red_bull,5,3,15,Finished,66
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,vettel,ferrari,3,4,12,Finished,66
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,ricciardo,red_bull,6,5,10,Finished,66
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,kevin_magnussen,haas,7,6,8,+1 Lap,65
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,sainz,renault,9,7,6,+1 Lap,65
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,alonso,mclaren,8,8,4,+1 Lap,65
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,perez,force_india,15,9,2,+2 Laps,64
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,leclerc,sauber,14,10,1,+2 Laps,64
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,stroll,williams,18,11,0,+2 Laps,64
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,brendon_hartley,toro_rosso,20,12,0,+2 Laps,64
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,ericsson,sauber,17,13,0,+2 Laps,64
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,sirotkin,williams,19,14,0,+3 Laps,63
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,vandoorne,mclaren,11,15,0,Gearbox,45
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,ocon,force_india,13,16,0,Oil leak,38
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,raikkonen,ferrari,4,17,0,Turbo,25
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,grosjean,haas,10,18,0,Collision,0
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,gasly,toro_rosso,12,19,0,Collision,0
+2018,5,2018-05-13,Circuit de Barcelona-Catalunya,hulkenberg,renault,16,20,0,Collision,0
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,bottas,mercedes,2,1,26,Finished,58
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,hamilton,mercedes,1,2,18,Finished,58
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,max_verstappen,red_bull,4,3,15,Finished,58
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,vettel,ferrari,3,4,12,Finished,58
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,leclerc,ferrari,5,5,10,Finished,58
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,kevin_magnussen,haas,7,6,8,Finished,58
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,hulkenberg,renault,11,7,6,+1 Lap,57
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,raikkonen,alfa,9,8,4,+1 Lap,57
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,stroll,racing_point,16,9,2,+1 Lap,57
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,kvyat,toro_rosso,15,10,1,+1 Lap,57
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,gasly,red_bull,17,11,0,+1 Lap,57
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,norris,mclaren,8,12,0,+1 Lap,57
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,perez,racing_point,10,13,0,+1 Lap,57
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,albon,toro_rosso,13,14,0,+1 Lap,57
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,giovinazzi,alfa,14,15,0,+1 Lap,57
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,russell,williams,19,16,0,+2 Laps,56
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,kubica,williams,20,17,0,+3 Laps,55
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,grosjean,haas,6,18,0,Wheel,29
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,ricciardo,renault,12,19,0,Damage,28
+2019,1,2019-03-17,Albert Park Grand Prix Circuit,sainz,mclaren,18,20,0,Engine,9
+2019,2,2019-03-31,Bahrain International Circuit,hamilton,mercedes,3,1,25,Finished,57
+2019,2,2019-03-31,Bahrain International Circuit,bottas,mercedes,4,2,18,Finished,57
+2019,2,2019-03-31,Bahrain International Circuit,leclerc,ferrari,1,3,16,Finished,57
+2019,2,2019-03-31,Bahrain International Circuit,max_verstappen,red_bull,5,4,12,Finished,57
+2019,2,2019-03-31,Bahrain International Circuit,vettel,ferrari,2,5,10,Finished,57
+2019,2,2019-03-31,Bahrain International Circuit,norris,mclaren,9,6,8,Finished,57
+2019,2,2019-03-31,Bahrain International Circuit,raikkonen,alfa,8,7,6,Finished,57
+2019,2,2019-03-31,Bahrain International Circuit,gasly,red_bull,13,8,4,Finished,57
+2019,2,2019-03-31,Bahrain International Circuit,albon,toro_rosso,12,9,2,Finished,57
+2019,2,2019-03-31,Bahrain International Circuit,perez,racing_point,14,10,1,Finished,57
+2019,2,2019-03-31,Bahrain International Circuit,giovinazzi,alfa,16,11,0,Finished,57
+2019,2,2019-03-31,Bahrain International Circuit,kvyat,toro_rosso,15,12,0,+1 Lap,56
+2019,2,2019-03-31,Bahrain International Circuit,kevin_magnussen,haas,6,13,0,+1 Lap,56
+2019,2,2019-03-31,Bahrain International Circuit,stroll,racing_point,18,14,0,+1 Lap,56
+2019,2,2019-03-31,Bahrain International Circuit,russell,williams,19,15,0,+1 Lap,56
+2019,2,2019-03-31,Bahrain International Circuit,kubica,williams,20,16,0,+2 Laps,55
+2019,2,2019-03-31,Bahrain International Circuit,hulkenberg,renault,17,17,0,Engine,53
+2019,2,2019-03-31,Bahrain International Circuit,ricciardo,renault,10,18,0,Out of fuel,53
+2019,2,2019-03-31,Bahrain International Circuit,sainz,mclaren,7,19,0,Collision damage,53
+2019,2,2019-03-31,Bahrain International Circuit,grosjean,haas,11,20,0,Retired,16
+2019,3,2019-04-14,Shanghai International Circuit,hamilton,mercedes,2,1,25,Finished,56
+2019,3,2019-04-14,Shanghai International Circuit,bottas,mercedes,1,2,18,Finished,56
+2019,3,2019-04-14,Shanghai International Circuit,vettel,ferrari,3,3,15,Finished,56
+2019,3,2019-04-14,Shanghai International Circuit,max_verstappen,red_bull,5,4,12,Finished,56
+2019,3,2019-04-14,Shanghai International Circuit,leclerc,ferrari,4,5,10,Finished,56
+2019,3,2019-04-14,Shanghai International Circuit,gasly,red_bull,6,6,9,Finished,56
+2019,3,2019-04-14,Shanghai International Circuit,ricciardo,renault,7,7,6,+1 Lap,55
+2019,3,2019-04-14,Shanghai International Circuit,perez,racing_point,12,8,4,+1 Lap,55
+2019,3,2019-04-14,Shanghai International Circuit,raikkonen,alfa,13,9,2,+1 Lap,55
+2019,3,2019-04-14,Shanghai International Circuit,albon,toro_rosso,0,10,1,+1 Lap,55
+2019,3,2019-04-14,Shanghai International Circuit,grosjean,haas,10,11,0,+1 Lap,55
+2019,3,2019-04-14,Shanghai International Circuit,stroll,racing_point,16,12,0,+1 Lap,55
+2019,3,2019-04-14,Shanghai International Circuit,kevin_magnussen,haas,9,13,0,+1 Lap,55
+2019,3,2019-04-14,Shanghai International Circuit,sainz,mclaren,14,14,0,+1 Lap,55
+2019,3,2019-04-14,Shanghai International Circuit,giovinazzi,alfa,19,15,0,+1 Lap,55
+2019,3,2019-04-14,Shanghai International Circuit,russell,williams,17,16,0,+2 Laps,54
+2019,3,2019-04-14,Shanghai International Circuit,kubica,williams,18,17,0,+2 Laps,54
+2019,3,2019-04-14,Shanghai International Circuit,norris,mclaren,15,18,0,Collision,50
+2019,3,2019-04-14,Shanghai International Circuit,kvyat,toro_rosso,11,19,0,Collision,41
+2019,3,2019-04-14,Shanghai International Circuit,hulkenberg,renault,8,20,0,Power Unit,16
+2019,4,2019-04-28,Baku City Circuit,bottas,mercedes,1,1,25,Finished,51
+2019,4,2019-04-28,Baku City Circuit,hamilton,mercedes,2,2,18,Finished,51
+2019,4,2019-04-28,Baku City Circuit,vettel,ferrari,3,3,15,Finished,51
+2019,4,2019-04-28,Baku City Circuit,max_verstappen,red_bull,4,4,12,Finished,51
+2019,4,2019-04-28,Baku City Circuit,leclerc,ferrari,8,5,11,Finished,51
+2019,4,2019-04-28,Baku City Circuit,perez,racing_point,5,6,8,Finished,51
+2019,4,2019-04-28,Baku City Circuit,sainz,mclaren,9,7,6,Finished,51
+2019,4,2019-04-28,Baku City Circuit,norris,mclaren,7,8,4,Finished,51
+2019,4,2019-04-28,Baku City Circuit,stroll,racing_point,13,9,2,Finished,51
+2019,4,2019-04-28,Baku City Circuit,raikkonen,alfa,0,10,1,+1 Lap,50
+2019,4,2019-04-28,Baku City Circuit,albon,toro_rosso,11,11,0,+1 Lap,50
+2019,4,2019-04-28,Baku City Circuit,giovinazzi,alfa,17,12,0,+1 Lap,50
+2019,4,2019-04-28,Baku City Circuit,kevin_magnussen,haas,12,13,0,+1 Lap,50
+2019,4,2019-04-28,Baku City Circuit,hulkenberg,renault,15,14,0,+1 Lap,50
+2019,4,2019-04-28,Baku City Circuit,russell,williams,16,15,0,+2 Laps,49
+2019,4,2019-04-28,Baku City Circuit,kubica,williams,0,16,0,+2 Laps,49
+2019,4,2019-04-28,Baku City Circuit,gasly,red_bull,0,17,0,Transmission,38
+2019,4,2019-04-28,Baku City Circuit,grosjean,haas,14,18,0,Brakes,38
+2019,4,2019-04-28,Baku City Circuit,kvyat,toro_rosso,6,19,0,Collision,33
+2019,4,2019-04-28,Baku City Circuit,ricciardo,renault,10,20,0,Collision,31
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,hamilton,mercedes,2,1,26,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,bottas,mercedes,1,2,18,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,max_verstappen,red_bull,4,3,15,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,vettel,ferrari,3,4,12,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,leclerc,ferrari,5,5,10,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,gasly,red_bull,6,6,8,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,kevin_magnussen,haas,8,7,6,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,sainz,mclaren,12,8,4,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,kvyat,toro_rosso,9,9,2,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,grosjean,haas,7,10,1,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,albon,toro_rosso,11,11,0,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,ricciardo,renault,13,12,0,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,hulkenberg,renault,0,13,0,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,raikkonen,alfa,14,14,0,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,perez,racing_point,15,15,0,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,giovinazzi,alfa,18,16,0,Finished,66
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,russell,williams,19,17,0,+1 Lap,65
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,kubica,williams,17,18,0,+1 Lap,65
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,stroll,racing_point,16,19,0,Collision,44
+2019,5,2019-05-12,Circuit de Barcelona-Catalunya,norris,mclaren,10,20,0,Collision,44
+2020,1,2020-07-05,Red Bull Ring,bottas,mercedes,1,1,25,Finished,71
+2020,1,2020-07-05,Red Bull Ring,leclerc,ferrari,7,2,18,Finished,71
+2020,1,2020-07-05,Red Bull Ring,norris,mclaren,3,3,16,Finished,71
+2020,1,2020-07-05,Red Bull Ring,hamilton,mercedes,5,4,12,Finished,71
+2020,1,2020-07-05,Red Bull Ring,sainz,mclaren,8,5,10,Finished,71
+2020,1,2020-07-05,Red Bull Ring,perez,racing_point,6,6,8,Finished,71
+2020,1,2020-07-05,Red Bull Ring,gasly,alphatauri,12,7,6,Finished,71
+2020,1,2020-07-05,Red Bull Ring,ocon,renault,14,8,4,Finished,71
+2020,1,2020-07-05,Red Bull Ring,giovinazzi,alfa,18,9,2,Finished,71
+2020,1,2020-07-05,Red Bull Ring,vettel,ferrari,11,10,1,Finished,71
+2020,1,2020-07-05,Red Bull Ring,latifi,williams,20,11,0,Finished,71
+2020,1,2020-07-05,Red Bull Ring,kvyat,alphatauri,13,12,0,Suspension,69
+2020,1,2020-07-05,Red Bull Ring,albon,red_bull,4,13,0,Electronics,67
+2020,1,2020-07-05,Red Bull Ring,raikkonen,alfa,19,14,0,Wheel,53
+2020,1,2020-07-05,Red Bull Ring,russell,williams,17,15,0,Fuel pressure,49
+2020,1,2020-07-05,Red Bull Ring,grosjean,haas,15,16,0,Brakes,49
+2020,1,2020-07-05,Red Bull Ring,kevin_magnussen,haas,16,17,0,Brakes,24
+2020,1,2020-07-05,Red Bull Ring,stroll,racing_point,9,18,0,Engine,20
+2020,1,2020-07-05,Red Bull Ring,ricciardo,renault,10,19,0,Overheating,17
+2020,1,2020-07-05,Red Bull Ring,max_verstappen,red_bull,2,20,0,Electronics,11
+2020,2,2020-07-12,Red Bull Ring,hamilton,mercedes,1,1,25,Finished,71
+2020,2,2020-07-12,Red Bull Ring,bottas,mercedes,4,2,18,Finished,71
+2020,2,2020-07-12,Red Bull Ring,max_verstappen,red_bull,2,3,15,Finished,71
+2020,2,2020-07-12,Red Bull Ring,albon,red_bull,6,4,12,Finished,71
+2020,2,2020-07-12,Red Bull Ring,norris,mclaren,9,5,10,Finished,71
+2020,2,2020-07-12,Red Bull Ring,perez,racing_point,17,6,8,Finished,71
+2020,2,2020-07-12,Red Bull Ring,stroll,racing_point,12,7,6,Finished,71
+2020,2,2020-07-12,Red Bull Ring,ricciardo,renault,8,8,4,Finished,71
+2020,2,2020-07-12,Red Bull Ring,sainz,mclaren,3,9,3,+1 Lap,70
+2020,2,2020-07-12,Red Bull Ring,kvyat,alphatauri,13,10,1,+1 Lap,70
+2020,2,2020-07-12,Red Bull Ring,raikkonen,alfa,16,11,0,+1 Lap,70
+2020,2,2020-07-12,Red Bull Ring,kevin_magnussen,haas,15,12,0,+1 Lap,70
+2020,2,2020-07-12,Red Bull Ring,grosjean,haas,0,13,0,+1 Lap,70
+2020,2,2020-07-12,Red Bull Ring,giovinazzi,alfa,19,14,0,+1 Lap,70
+2020,2,2020-07-12,Red Bull Ring,gasly,alphatauri,7,15,0,+1 Lap,70
+2020,2,2020-07-12,Red Bull Ring,russell,williams,11,16,0,+2 Laps,69
+2020,2,2020-07-12,Red Bull Ring,latifi,williams,18,17,0,+2 Laps,69
+2020,2,2020-07-12,Red Bull Ring,ocon,renault,5,18,0,Overheating,25
+2020,2,2020-07-12,Red Bull Ring,leclerc,ferrari,14,19,0,Collision damage,4
+2020,2,2020-07-12,Red Bull Ring,vettel,ferrari,10,20,0,Collision damage,1
+2020,3,2020-07-19,Hungaroring,hamilton,mercedes,1,1,26,Finished,70
+2020,3,2020-07-19,Hungaroring,max_verstappen,red_bull,7,2,18,Finished,70
+2020,3,2020-07-19,Hungaroring,bottas,mercedes,2,3,15,Finished,70
+2020,3,2020-07-19,Hungaroring,stroll,racing_point,3,4,12,Finished,70
+2020,3,2020-07-19,Hungaroring,albon,red_bull,13,5,10,Finished,70
+2020,3,2020-07-19,Hungaroring,vettel,ferrari,5,6,8,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,perez,racing_point,4,7,6,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,ricciardo,renault,11,8,4,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,sainz,mclaren,9,9,2,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,kevin_magnussen,haas,0,10,1,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,leclerc,ferrari,6,11,0,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,kvyat,alphatauri,17,12,0,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,norris,mclaren,8,13,0,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,ocon,renault,14,14,0,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,raikkonen,alfa,20,15,0,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,grosjean,haas,0,16,0,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,giovinazzi,alfa,19,17,0,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,russell,williams,12,18,0,+1 Lap,69
+2020,3,2020-07-19,Hungaroring,latifi,williams,15,19,0,+5 Laps,65
+2020,3,2020-07-19,Hungaroring,gasly,alphatauri,10,20,0,Engine,15
+2020,4,2020-08-02,Silverstone Circuit,hamilton,mercedes,1,1,25,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,max_verstappen,red_bull,3,2,19,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,leclerc,ferrari,4,3,15,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,ricciardo,renault,8,4,12,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,norris,mclaren,5,5,10,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,ocon,renault,9,6,8,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,gasly,alphatauri,11,7,6,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,albon,red_bull,12,8,4,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,stroll,racing_point,6,9,2,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,vettel,ferrari,10,10,1,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,bottas,mercedes,2,11,0,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,russell,williams,20,12,0,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,sainz,mclaren,7,13,0,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,giovinazzi,alfa,15,14,0,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,latifi,williams,18,15,0,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,grosjean,haas,17,16,0,Finished,52
+2020,4,2020-08-02,Silverstone Circuit,raikkonen,alfa,16,17,0,+1 Lap,51
+2020,4,2020-08-02,Silverstone Circuit,kvyat,alphatauri,19,18,0,Accident,11
+2020,4,2020-08-02,Silverstone Circuit,kevin_magnussen,haas,14,19,0,Collision,1
+2020,4,2020-08-02,Silverstone Circuit,hulkenberg,racing_point,13,20,0,Power Unit,0
+2020,5,2020-08-09,Silverstone Circuit,max_verstappen,red_bull,4,1,25,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,hamilton,mercedes,2,2,19,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,bottas,mercedes,1,3,15,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,leclerc,ferrari,8,4,12,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,albon,red_bull,9,5,10,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,stroll,racing_point,6,6,8,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,hulkenberg,racing_point,3,7,6,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,ocon,renault,14,8,4,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,norris,mclaren,10,9,2,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,kvyat,alphatauri,16,10,1,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,gasly,alphatauri,7,11,0,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,vettel,ferrari,11,12,0,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,sainz,mclaren,12,13,0,Finished,52
+2020,5,2020-08-09,Silverstone Circuit,ricciardo,renault,5,14,0,+1 Lap,51
+2020,5,2020-08-09,Silverstone Circuit,raikkonen,alfa,20,15,0,+1 Lap,51
+2020,5,2020-08-09,Silverstone Circuit,grosjean,haas,13,16,0,+1 Lap,51
+2020,5,2020-08-09,Silverstone Circuit,giovinazzi,alfa,19,17,0,+1 Lap,51
+2020,5,2020-08-09,Silverstone Circuit,russell,williams,15,18,0,+1 Lap,51
+2020,5,2020-08-09,Silverstone Circuit,latifi,williams,18,19,0,+1 Lap,51
+2020,5,2020-08-09,Silverstone Circuit,kevin_magnussen,haas,17,20,0,Retired,43
+2021,1,2021-03-28,Bahrain International Circuit,hamilton,mercedes,2,1,25,Finished,56
+2021,1,2021-03-28,Bahrain International Circuit,max_verstappen,red_bull,1,2,18,Finished,56
+2021,1,2021-03-28,Bahrain International Circuit,bottas,mercedes,3,3,16,Finished,56
+2021,1,2021-03-28,Bahrain International Circuit,norris,mclaren,7,4,12,Finished,56
+2021,1,2021-03-28,Bahrain International Circuit,perez,red_bull,0,5,10,Finished,56
+2021,1,2021-03-28,Bahrain International Circuit,leclerc,ferrari,4,6,8,Finished,56
+2021,1,2021-03-28,Bahrain International Circuit,ricciardo,mclaren,6,7,6,Finished,56
+2021,1,2021-03-28,Bahrain International Circuit,sainz,ferrari,8,8,4,Finished,56
+2021,1,2021-03-28,Bahrain International Circuit,tsunoda,alphatauri,13,9,2,Finished,56
+2021,1,2021-03-28,Bahrain International Circuit,stroll,aston_martin,10,10,1,Finished,56
+2021,1,2021-03-28,Bahrain International Circuit,raikkonen,alfa,14,11,0,Finished,56
+2021,1,2021-03-28,Bahrain International Circuit,giovinazzi,alfa,12,12,0,+1 Lap,55
+2021,1,2021-03-28,Bahrain International Circuit,ocon,alpine,16,13,0,+1 Lap,55
+2021,1,2021-03-28,Bahrain International Circuit,russell,williams,15,14,0,+1 Lap,55
+2021,1,2021-03-28,Bahrain International Circuit,vettel,aston_martin,20,15,0,+1 Lap,55
+2021,1,2021-03-28,Bahrain International Circuit,mick_schumacher,haas,18,16,0,+1 Lap,55
+2021,1,2021-03-28,Bahrain International Circuit,gasly,alphatauri,5,17,0,Retired,52
+2021,1,2021-03-28,Bahrain International Circuit,latifi,williams,17,18,0,Retired,51
+2021,1,2021-03-28,Bahrain International Circuit,alonso,alpine,9,19,0,Brakes,32
+2021,1,2021-03-28,Bahrain International Circuit,mazepin,haas,19,20,0,Accident,0
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,max_verstappen,red_bull,3,1,25,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,hamilton,mercedes,1,2,19,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,norris,mclaren,7,3,15,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,leclerc,ferrari,4,4,12,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,sainz,ferrari,11,5,10,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,ricciardo,mclaren,6,6,8,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,gasly,alphatauri,5,7,6,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,stroll,aston_martin,10,8,4,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,ocon,alpine,9,9,2,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,alonso,alpine,15,10,1,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,perez,red_bull,2,11,0,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,tsunoda,alphatauri,20,12,0,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,raikkonen,alfa,16,13,0,Finished,63
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,giovinazzi,alfa,17,14,0,+1 Lap,62
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,vettel,aston_martin,0,15,0,Gearbox,61
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,mick_schumacher,haas,18,16,0,+2 Laps,61
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,mazepin,haas,19,17,0,+2 Laps,61
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,bottas,mercedes,8,18,0,Collision,30
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,russell,williams,12,19,0,Collision,30
+2021,2,2021-04-18,Autodromo Enzo e Dino Ferrari,latifi,williams,14,20,0,Collision,0
+2021,3,2021-05-02,Autódromo Internacional do Algarve,hamilton,mercedes,2,1,25,Finished,66
+2021,3,2021-05-02,Autódromo Internacional do Algarve,max_verstappen,red_bull,3,2,18,Finished,66
+2021,3,2021-05-02,Autódromo Internacional do Algarve,bottas,mercedes,1,3,16,Finished,66
+2021,3,2021-05-02,Autódromo Internacional do Algarve,perez,red_bull,4,4,12,Finished,66
+2021,3,2021-05-02,Autódromo Internacional do Algarve,norris,mclaren,7,5,10,Finished,66
+2021,3,2021-05-02,Autódromo Internacional do Algarve,leclerc,ferrari,8,6,8,Finished,66
+2021,3,2021-05-02,Autódromo Internacional do Algarve,ocon,alpine,6,7,6,Finished,66
+2021,3,2021-05-02,Autódromo Internacional do Algarve,alonso,alpine,13,8,4,Finished,66
+2021,3,2021-05-02,Autódromo Internacional do Algarve,ricciardo,mclaren,16,9,2,Finished,66
+2021,3,2021-05-02,Autódromo Internacional do Algarve,gasly,alphatauri,9,10,1,Finished,66
+2021,3,2021-05-02,Autódromo Internacional do Algarve,sainz,ferrari,5,11,0,Finished,66
+2021,3,2021-05-02,Autódromo Internacional do Algarve,giovinazzi,alfa,12,12,0,+1 Lap,65
+2021,3,2021-05-02,Autódromo Internacional do Algarve,vettel,aston_martin,10,13,0,+1 Lap,65
+2021,3,2021-05-02,Autódromo Internacional do Algarve,stroll,aston_martin,17,14,0,+1 Lap,65
+2021,3,2021-05-02,Autódromo Internacional do Algarve,tsunoda,alphatauri,14,15,0,+1 Lap,65
+2021,3,2021-05-02,Autódromo Internacional do Algarve,russell,williams,11,16,0,+1 Lap,65
+2021,3,2021-05-02,Autódromo Internacional do Algarve,mick_schumacher,haas,19,17,0,+2 Laps,64
+2021,3,2021-05-02,Autódromo Internacional do Algarve,latifi,williams,18,18,0,+2 Laps,64
+2021,3,2021-05-02,Autódromo Internacional do Algarve,mazepin,haas,20,19,0,+2 Laps,64
+2021,3,2021-05-02,Autódromo Internacional do Algarve,raikkonen,alfa,15,20,0,Collision damage,1
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,hamilton,mercedes,1,1,25,Finished,66
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,max_verstappen,red_bull,2,2,19,Finished,66
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,bottas,mercedes,3,3,15,Finished,66
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,leclerc,ferrari,4,4,12,Finished,66
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,perez,red_bull,8,5,10,Finished,66
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,ricciardo,mclaren,7,6,8,Finished,66
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,sainz,ferrari,6,7,6,Finished,66
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,norris,mclaren,9,8,4,+1 Lap,65
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,ocon,alpine,5,9,2,+1 Lap,65
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,gasly,alphatauri,12,10,1,+1 Lap,65
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,stroll,aston_martin,11,11,0,+1 Lap,65
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,raikkonen,alfa,17,12,0,+1 Lap,65
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,vettel,aston_martin,13,13,0,+1 Lap,65
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,russell,williams,15,14,0,+1 Lap,65
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,giovinazzi,alfa,14,15,0,+1 Lap,65
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,latifi,williams,19,16,0,+1 Lap,65
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,alonso,alpine,10,17,0,+1 Lap,65
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,mick_schumacher,haas,18,18,0,+2 Laps,64
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,mazepin,haas,20,19,0,+2 Laps,64
+2021,4,2021-05-09,Circuit de Barcelona-Catalunya,tsunoda,alphatauri,16,20,0,Electrical,6
+2021,5,2021-05-23,Circuit de Monaco,max_verstappen,red_bull,2,1,25,Finished,78
+2021,5,2021-05-23,Circuit de Monaco,sainz,ferrari,4,2,18,Finished,78
+2021,5,2021-05-23,Circuit de Monaco,norris,mclaren,5,3,15,Finished,78
+2021,5,2021-05-23,Circuit de Monaco,perez,red_bull,9,4,12,Finished,78
+2021,5,2021-05-23,Circuit de Monaco,vettel,aston_martin,8,5,10,Finished,78
+2021,5,2021-05-23,Circuit de Monaco,gasly,alphatauri,6,6,8,Finished,78
+2021,5,2021-05-23,Circuit de Monaco,hamilton,mercedes,7,7,7,Finished,78
+2021,5,2021-05-23,Circuit de Monaco,stroll,aston_martin,13,8,4,+1 Lap,77
+2021,5,2021-05-23,Circuit de Monaco,ocon,alpine,11,9,2,+1 Lap,77
+2021,5,2021-05-23,Circuit de Monaco,giovinazzi,alfa,10,10,1,+1 Lap,77
+2021,5,2021-05-23,Circuit de Monaco,raikkonen,alfa,14,11,0,+1 Lap,77
+2021,5,2021-05-23,Circuit de Monaco,ricciardo,mclaren,12,12,0,+1 Lap,77
+2021,5,2021-05-23,Circuit de Monaco,alonso,alpine,17,13,0,+1 Lap,77
+2021,5,2021-05-23,Circuit de Monaco,russell,williams,15,14,0,+1 Lap,77
+2021,5,2021-05-23,Circuit de Monaco,latifi,williams,18,15,0,+1 Lap,77
+2021,5,2021-05-23,Circuit de Monaco,tsunoda,alphatauri,16,16,0,+1 Lap,77
+2021,5,2021-05-23,Circuit de Monaco,mazepin,haas,19,17,0,+3 Laps,75
+2021,5,2021-05-23,Circuit de Monaco,mick_schumacher,haas,20,18,0,+3 Laps,75
+2021,5,2021-05-23,Circuit de Monaco,bottas,mercedes,3,19,0,Wheel nut,29
+2021,5,2021-05-23,Circuit de Monaco,leclerc,ferrari,1,20,0,Driveshaft,0
+2022,1,2022-03-20,Bahrain International Circuit,leclerc,ferrari,1,1,26,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,sainz,ferrari,3,2,18,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,hamilton,mercedes,5,3,15,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,russell,mercedes,9,4,12,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,kevin_magnussen,haas,7,5,10,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,bottas,alfa,6,6,8,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,ocon,alpine,11,7,6,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,tsunoda,alphatauri,16,8,4,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,alonso,alpine,8,9,2,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,zhou,alfa,15,10,1,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,mick_schumacher,haas,12,11,0,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,stroll,aston_martin,19,12,0,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,albon,williams,14,13,0,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,ricciardo,mclaren,18,14,0,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,norris,mclaren,13,15,0,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,latifi,williams,20,16,0,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,hulkenberg,aston_martin,17,17,0,Finished,57
+2022,1,2022-03-20,Bahrain International Circuit,perez,red_bull,4,18,0,Fuel pressure,56
+2022,1,2022-03-20,Bahrain International Circuit,max_verstappen,red_bull,2,19,0,Fuel pressure,54
+2022,1,2022-03-20,Bahrain International Circuit,gasly,alphatauri,10,20,0,Power Unit,44
+2022,2,2022-03-27,Jeddah Corniche Circuit,max_verstappen,red_bull,4,1,25,Finished,50
+2022,2,2022-03-27,Jeddah Corniche Circuit,leclerc,ferrari,2,2,19,Finished,50
+2022,2,2022-03-27,Jeddah Corniche Circuit,sainz,ferrari,3,3,15,Finished,50
+2022,2,2022-03-27,Jeddah Corniche Circuit,perez,red_bull,1,4,12,Finished,50
+2022,2,2022-03-27,Jeddah Corniche Circuit,russell,mercedes,6,5,10,Finished,50
+2022,2,2022-03-27,Jeddah Corniche Circuit,ocon,alpine,5,6,8,Finished,50
+2022,2,2022-03-27,Jeddah Corniche Circuit,norris,mclaren,11,7,6,Finished,50
+2022,2,2022-03-27,Jeddah Corniche Circuit,gasly,alphatauri,9,8,4,Finished,50
+2022,2,2022-03-27,Jeddah Corniche Circuit,kevin_magnussen,haas,10,9,2,Finished,50
+2022,2,2022-03-27,Jeddah Corniche Circuit,hamilton,mercedes,15,10,1,Finished,50
+2022,2,2022-03-27,Jeddah Corniche Circuit,zhou,alfa,12,11,0,Finished,50
+2022,2,2022-03-27,Jeddah Corniche Circuit,hulkenberg,aston_martin,17,12,0,Finished,50
+2022,2,2022-03-27,Jeddah Corniche Circuit,stroll,aston_martin,13,13,0,+1 Lap,49
+2022,2,2022-03-27,Jeddah Corniche Circuit,albon,williams,16,14,0,Collision damage,47
+2022,2,2022-03-27,Jeddah Corniche Circuit,bottas,alfa,8,15,0,Cooling system,36
+2022,2,2022-03-27,Jeddah Corniche Circuit,alonso,alpine,7,16,0,Water pump,35
+2022,2,2022-03-27,Jeddah Corniche Circuit,ricciardo,mclaren,14,17,0,Gearbox,35
+2022,2,2022-03-27,Jeddah Corniche Circuit,latifi,williams,18,18,0,Accident,14
+2022,2,2022-03-27,Jeddah Corniche Circuit,tsunoda,alphatauri,19,19,0,Power Unit,0
+2022,2,2022-03-27,Jeddah Corniche Circuit,mick_schumacher,haas,0,20,0,Withdrew,0
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,leclerc,ferrari,1,1,26,Finished,58
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,perez,red_bull,3,2,18,Finished,58
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,russell,mercedes,6,3,15,Finished,58
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,hamilton,mercedes,5,4,12,Finished,58
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,norris,mclaren,4,5,10,Finished,58
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,ricciardo,mclaren,7,6,8,Finished,58
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,ocon,alpine,8,7,6,Finished,58
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,bottas,alfa,12,8,4,Finished,58
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,gasly,alphatauri,11,9,2,Finished,58
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,albon,williams,20,10,1,Finished,58
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,zhou,alfa,14,11,0,Finished,58
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,stroll,aston_martin,19,12,0,Finished,58
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,mick_schumacher,haas,15,13,0,+1 Lap,57
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,kevin_magnussen,haas,16,14,0,+1 Lap,57
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,tsunoda,alphatauri,13,15,0,+1 Lap,57
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,latifi,williams,18,16,0,+1 Lap,57
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,alonso,alpine,10,17,0,+1 Lap,57
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,max_verstappen,red_bull,2,18,0,Fuel leak,38
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,vettel,aston_martin,17,19,0,Accident,22
+2022,3,2022-04-10,Albert Park Grand Prix Circuit,sainz,ferrari,9,20,0,Spun off,1
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,max_verstappen,red_bull,1,1,26,Finished,63
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,perez,red_bull,3,2,18,Finished,63
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,norris,mclaren,5,3,15,Finished,63
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,russell,mercedes,11,4,12,Finished,63
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,bottas,alfa,7,5,10,Finished,63
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,leclerc,ferrari,2,6,8,Finished,63
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,tsunoda,alphatauri,12,7,6,Finished,63
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,vettel,aston_martin,13,8,4,Finished,63
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,kevin_magnussen,haas,8,9,2,Finished,63
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,stroll,aston_martin,15,10,1,+1 Lap,62
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,albon,williams,18,11,0,+1 Lap,62
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,gasly,alphatauri,17,12,0,+1 Lap,62
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,hamilton,mercedes,14,13,0,+1 Lap,62
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,ocon,alpine,16,14,0,+1 Lap,62
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,zhou,alfa,0,15,0,+1 Lap,62
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,latifi,williams,19,16,0,+1 Lap,62
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,mick_schumacher,haas,10,17,0,+1 Lap,62
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,ricciardo,mclaren,6,18,0,+1 Lap,62
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,alonso,alpine,9,19,0,Collision damage,6
+2022,4,2022-04-24,Autodromo Enzo e Dino Ferrari,sainz,ferrari,4,20,0,Collision,0
+2022,5,2022-05-08,Miami International Autodrome,max_verstappen,red_bull,3,1,26,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,leclerc,ferrari,1,2,18,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,sainz,ferrari,2,3,15,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,perez,red_bull,4,4,12,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,russell,mercedes,12,5,10,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,hamilton,mercedes,6,6,8,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,bottas,alfa,5,7,6,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,ocon,alpine,20,8,4,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,albon,williams,18,9,2,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,stroll,aston_martin,0,10,1,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,alonso,alpine,11,11,0,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,tsunoda,alphatauri,9,12,0,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,ricciardo,mclaren,14,13,0,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,latifi,williams,19,14,0,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,mick_schumacher,haas,15,15,0,Finished,57
+2022,5,2022-05-08,Miami International Autodrome,kevin_magnussen,haas,16,16,0,Front wing,56
+2022,5,2022-05-08,Miami International Autodrome,vettel,aston_martin,0,17,0,Collision,54
+2022,5,2022-05-08,Miami International Autodrome,gasly,alphatauri,7,18,0,Suspension,45
+2022,5,2022-05-08,Miami International Autodrome,norris,mclaren,8,19,0,Collision,39
+2022,5,2022-05-08,Miami International Autodrome,zhou,alfa,17,20,0,Water leak,6
+2023,1,2023-03-05,Bahrain International Circuit,max_verstappen,red_bull,1,1,25,Finished,57
+2023,1,2023-03-05,Bahrain International Circuit,perez,red_bull,2,2,18,Finished,57
+2023,1,2023-03-05,Bahrain International Circuit,alonso,aston_martin,5,3,15,Finished,57
+2023,1,2023-03-05,Bahrain International Circuit,sainz,ferrari,4,4,12,Finished,57
+2023,1,2023-03-05,Bahrain International Circuit,hamilton,mercedes,7,5,10,Finished,57
+2023,1,2023-03-05,Bahrain International Circuit,stroll,aston_martin,8,6,8,Finished,57
+2023,1,2023-03-05,Bahrain International Circuit,russell,mercedes,6,7,6,Finished,57
+2023,1,2023-03-05,Bahrain International Circuit,bottas,alfa,12,8,4,Finished,57
+2023,1,2023-03-05,Bahrain International Circuit,gasly,alpine,20,9,2,Finished,57
+2023,1,2023-03-05,Bahrain International Circuit,albon,williams,15,10,1,Finished,57
+2023,1,2023-03-05,Bahrain International Circuit,tsunoda,alphatauri,14,11,0,Finished,57
+2023,1,2023-03-05,Bahrain International Circuit,sargeant,williams,16,12,0,Lapped,56
+2023,1,2023-03-05,Bahrain International Circuit,kevin_magnussen,haas,17,13,0,Lapped,56
+2023,1,2023-03-05,Bahrain International Circuit,de_vries,alphatauri,19,14,0,Lapped,56
+2023,1,2023-03-05,Bahrain International Circuit,hulkenberg,haas,10,15,0,Lapped,56
+2023,1,2023-03-05,Bahrain International Circuit,zhou,alfa,13,16,0,Lapped,56
+2023,1,2023-03-05,Bahrain International Circuit,norris,mclaren,11,17,0,Lapped,55
+2023,1,2023-03-05,Bahrain International Circuit,ocon,alpine,9,18,0,Retired,41
+2023,1,2023-03-05,Bahrain International Circuit,leclerc,ferrari,3,19,0,Retired,39
+2023,1,2023-03-05,Bahrain International Circuit,piastri,mclaren,18,20,0,Retired,13
+2023,2,2023-03-19,Jeddah Corniche Circuit,perez,red_bull,1,1,25,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,max_verstappen,red_bull,15,2,19,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,alonso,aston_martin,2,3,15,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,russell,mercedes,3,4,12,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,hamilton,mercedes,7,5,10,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,sainz,ferrari,4,6,8,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,leclerc,ferrari,12,7,6,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,ocon,alpine,6,8,4,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,gasly,alpine,9,9,2,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,kevin_magnussen,haas,13,10,1,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,tsunoda,alphatauri,16,11,0,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,hulkenberg,haas,10,12,0,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,zhou,alfa,11,13,0,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,de_vries,alphatauri,18,14,0,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,piastri,mclaren,8,15,0,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,sargeant,williams,20,16,0,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,norris,mclaren,19,17,0,Finished,50
+2023,2,2023-03-19,Jeddah Corniche Circuit,bottas,alfa,14,18,0,Lapped,49
+2023,2,2023-03-19,Jeddah Corniche Circuit,albon,williams,17,19,0,Retired,27
+2023,2,2023-03-19,Jeddah Corniche Circuit,stroll,aston_martin,5,20,0,Retired,16
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,max_verstappen,red_bull,1,1,25,Finished,58
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,hamilton,mercedes,3,2,18,Finished,58
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,alonso,aston_martin,4,3,15,Finished,58
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,stroll,aston_martin,6,4,12,Finished,58
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,perez,red_bull,20,5,11,Finished,58
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,norris,mclaren,13,6,8,Finished,58
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,hulkenberg,haas,10,7,6,Finished,58
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,piastri,mclaren,16,8,4,Finished,58
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,zhou,alfa,17,9,2,Finished,58
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,tsunoda,alphatauri,12,10,1,Finished,58
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,bottas,alfa,19,11,0,Finished,58
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,sainz,ferrari,5,12,0,Finished,58
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,gasly,alpine,9,13,0,Retired,56
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,ocon,alpine,11,14,0,Retired,56
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,de_vries,alphatauri,15,15,0,Retired,56
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,sargeant,williams,18,16,0,Retired,56
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,kevin_magnussen,haas,14,17,0,Retired,52
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,russell,mercedes,2,18,0,Retired,17
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,albon,williams,8,19,0,Retired,6
+2023,3,2023-04-02,Albert Park Grand Prix Circuit,leclerc,ferrari,7,20,0,Retired,0
+2023,4,2023-04-30,Baku City Circuit,perez,red_bull,3,1,25,Finished,51
+2023,4,2023-04-30,Baku City Circuit,max_verstappen,red_bull,2,2,18,Finished,51
+2023,4,2023-04-30,Baku City Circuit,leclerc,ferrari,1,3,15,Finished,51
+2023,4,2023-04-30,Baku City Circuit,alonso,aston_martin,6,4,12,Finished,51
+2023,4,2023-04-30,Baku City Circuit,sainz,ferrari,4,5,10,Finished,51
+2023,4,2023-04-30,Baku City Circuit,hamilton,mercedes,5,6,8,Finished,51
+2023,4,2023-04-30,Baku City Circuit,stroll,aston_martin,9,7,6,Finished,51
+2023,4,2023-04-30,Baku City Circuit,russell,mercedes,11,8,5,Finished,51
+2023,4,2023-04-30,Baku City Circuit,norris,mclaren,7,9,2,Finished,51
+2023,4,2023-04-30,Baku City Circuit,tsunoda,alphatauri,8,10,1,Finished,51
+2023,4,2023-04-30,Baku City Circuit,piastri,mclaren,10,11,0,Finished,51
+2023,4,2023-04-30,Baku City Circuit,albon,williams,12,12,0,Finished,51
+2023,4,2023-04-30,Baku City Circuit,kevin_magnussen,haas,16,13,0,Finished,51
+2023,4,2023-04-30,Baku City Circuit,gasly,alpine,17,14,0,Finished,51
+2023,4,2023-04-30,Baku City Circuit,ocon,alpine,19,15,0,Finished,51
+2023,4,2023-04-30,Baku City Circuit,sargeant,williams,14,16,0,Finished,51
+2023,4,2023-04-30,Baku City Circuit,hulkenberg,haas,20,17,0,Lapped,50
+2023,4,2023-04-30,Baku City Circuit,bottas,alfa,13,18,0,Lapped,50
+2023,4,2023-04-30,Baku City Circuit,zhou,alfa,15,19,0,Retired,36
+2023,4,2023-04-30,Baku City Circuit,de_vries,alphatauri,18,20,0,Retired,9
+2023,5,2023-05-07,Miami International Autodrome,max_verstappen,red_bull,9,1,26,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,perez,red_bull,1,2,18,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,alonso,aston_martin,2,3,15,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,russell,mercedes,6,4,12,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,sainz,ferrari,3,5,10,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,hamilton,mercedes,13,6,8,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,leclerc,ferrari,7,7,6,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,gasly,alpine,5,8,4,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,ocon,alpine,8,9,2,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,kevin_magnussen,haas,4,10,1,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,tsunoda,alphatauri,17,11,0,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,stroll,aston_martin,18,12,0,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,bottas,alfa,10,13,0,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,albon,williams,11,14,0,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,hulkenberg,haas,12,15,0,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,zhou,alfa,14,16,0,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,norris,mclaren,16,17,0,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,de_vries,alphatauri,15,18,0,Finished,57
+2023,5,2023-05-07,Miami International Autodrome,piastri,mclaren,19,19,0,Lapped,56
+2023,5,2023-05-07,Miami International Autodrome,sargeant,williams,20,20,0,Lapped,56
+2024,1,2024-03-02,Bahrain International Circuit,max_verstappen,red_bull,1,1,26,Finished,57
+2024,1,2024-03-02,Bahrain International Circuit,perez,red_bull,5,2,18,Finished,57
+2024,1,2024-03-02,Bahrain International Circuit,sainz,ferrari,4,3,15,Finished,57
+2024,1,2024-03-02,Bahrain International Circuit,leclerc,ferrari,2,4,12,Finished,57
+2024,1,2024-03-02,Bahrain International Circuit,russell,mercedes,3,5,10,Finished,57
+2024,1,2024-03-02,Bahrain International Circuit,norris,mclaren,7,6,8,Finished,57
+2024,1,2024-03-02,Bahrain International Circuit,hamilton,mercedes,9,7,6,Finished,57
+2024,1,2024-03-02,Bahrain International Circuit,piastri,mclaren,8,8,4,Finished,57
+2024,1,2024-03-02,Bahrain International Circuit,alonso,aston_martin,6,9,2,Finished,57
+2024,1,2024-03-02,Bahrain International Circuit,stroll,aston_martin,12,10,1,Finished,57
+2024,1,2024-03-02,Bahrain International Circuit,zhou,sauber,17,11,0,Lapped,56
+2024,1,2024-03-02,Bahrain International Circuit,kevin_magnussen,haas,15,12,0,Lapped,56
+2024,1,2024-03-02,Bahrain International Circuit,ricciardo,rb,14,13,0,Lapped,56
+2024,1,2024-03-02,Bahrain International Circuit,tsunoda,rb,11,14,0,Lapped,56
+2024,1,2024-03-02,Bahrain International Circuit,albon,williams,13,15,0,Lapped,56
+2024,1,2024-03-02,Bahrain International Circuit,hulkenberg,haas,10,16,0,Lapped,56
+2024,1,2024-03-02,Bahrain International Circuit,ocon,alpine,19,17,0,Lapped,56
+2024,1,2024-03-02,Bahrain International Circuit,gasly,alpine,20,18,0,Lapped,56
+2024,1,2024-03-02,Bahrain International Circuit,bottas,sauber,16,19,0,Lapped,56
+2024,1,2024-03-02,Bahrain International Circuit,sargeant,williams,18,20,0,Lapped,55
+2024,2,2024-03-09,Jeddah Corniche Circuit,max_verstappen,red_bull,1,1,25,Finished,50
+2024,2,2024-03-09,Jeddah Corniche Circuit,perez,red_bull,3,2,18,Finished,50
+2024,2,2024-03-09,Jeddah Corniche Circuit,leclerc,ferrari,2,3,16,Finished,50
+2024,2,2024-03-09,Jeddah Corniche Circuit,piastri,mclaren,5,4,12,Finished,50
+2024,2,2024-03-09,Jeddah Corniche Circuit,alonso,aston_martin,4,5,10,Finished,50
+2024,2,2024-03-09,Jeddah Corniche Circuit,russell,mercedes,7,6,8,Finished,50
+2024,2,2024-03-09,Jeddah Corniche Circuit,bearman,ferrari,11,7,6,Finished,50
+2024,2,2024-03-09,Jeddah Corniche Circuit,norris,mclaren,6,8,4,Finished,50
+2024,2,2024-03-09,Jeddah Corniche Circuit,hamilton,mercedes,8,9,2,Finished,50
+2024,2,2024-03-09,Jeddah Corniche Circuit,hulkenberg,haas,15,10,1,Finished,50
+2024,2,2024-03-09,Jeddah Corniche Circuit,albon,williams,12,11,0,Finished,50
+2024,2,2024-03-09,Jeddah Corniche Circuit,kevin_magnussen,haas,13,12,0,Finished,50
+2024,2,2024-03-09,Jeddah Corniche Circuit,ocon,alpine,17,13,0,Lapped,49
+2024,2,2024-03-09,Jeddah Corniche Circuit,sargeant,williams,19,14,0,Lapped,49
+2024,2,2024-03-09,Jeddah Corniche Circuit,tsunoda,rb,9,15,0,Lapped,49
+2024,2,2024-03-09,Jeddah Corniche Circuit,ricciardo,rb,14,16,0,Lapped,49
+2024,2,2024-03-09,Jeddah Corniche Circuit,bottas,sauber,16,17,0,Lapped,49
+2024,2,2024-03-09,Jeddah Corniche Circuit,zhou,sauber,20,18,0,Lapped,49
+2024,2,2024-03-09,Jeddah Corniche Circuit,stroll,aston_martin,10,19,0,Retired,5
+2024,2,2024-03-09,Jeddah Corniche Circuit,gasly,alpine,18,20,0,Retired,1
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,sainz,ferrari,2,1,25,Finished,58
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,leclerc,ferrari,4,2,19,Finished,58
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,norris,mclaren,3,3,15,Finished,58
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,piastri,mclaren,5,4,12,Finished,58
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,perez,red_bull,6,5,10,Finished,58
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,stroll,aston_martin,9,6,8,Finished,58
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,tsunoda,rb,8,7,6,Finished,58
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,alonso,aston_martin,10,8,4,Finished,58
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,hulkenberg,haas,16,9,2,Finished,58
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,kevin_magnussen,haas,14,10,1,Lapped,57
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,albon,williams,12,11,0,Lapped,57
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,ricciardo,rb,18,12,0,Lapped,57
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,gasly,alpine,17,13,0,Lapped,57
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,bottas,sauber,13,14,0,Lapped,57
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,zhou,sauber,19,15,0,Lapped,57
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,ocon,alpine,15,16,0,Lapped,57
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,russell,mercedes,7,17,0,Retired,56
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,hamilton,mercedes,11,18,0,Retired,15
+2024,3,2024-03-24,Albert Park Grand Prix Circuit,max_verstappen,red_bull,1,19,0,Retired,3
+2024,4,2024-04-07,Suzuka Circuit,max_verstappen,red_bull,1,1,26,Finished,53
+2024,4,2024-04-07,Suzuka Circuit,perez,red_bull,2,2,18,Finished,53
+2024,4,2024-04-07,Suzuka Circuit,sainz,ferrari,4,3,15,Finished,53
+2024,4,2024-04-07,Suzuka Circuit,leclerc,ferrari,8,4,12,Finished,53
+2024,4,2024-04-07,Suzuka Circuit,norris,mclaren,3,5,10,Finished,53
+2024,4,2024-04-07,Suzuka Circuit,alonso,aston_martin,5,6,8,Finished,53
+2024,4,2024-04-07,Suzuka Circuit,russell,mercedes,9,7,6,Finished,53
+2024,4,2024-04-07,Suzuka Circuit,piastri,mclaren,6,8,4,Finished,53
+2024,4,2024-04-07,Suzuka Circuit,hamilton,mercedes,7,9,2,Finished,53
+2024,4,2024-04-07,Suzuka Circuit,tsunoda,rb,10,10,1,Lapped,52
+2024,4,2024-04-07,Suzuka Circuit,hulkenberg,haas,12,11,0,Lapped,52
+2024,4,2024-04-07,Suzuka Circuit,stroll,aston_martin,16,12,0,Lapped,52
+2024,4,2024-04-07,Suzuka Circuit,kevin_magnussen,haas,18,13,0,Lapped,52
+2024,4,2024-04-07,Suzuka Circuit,bottas,sauber,13,14,0,Lapped,52
+2024,4,2024-04-07,Suzuka Circuit,ocon,alpine,15,15,0,Lapped,52
+2024,4,2024-04-07,Suzuka Circuit,gasly,alpine,17,16,0,Lapped,52
+2024,4,2024-04-07,Suzuka Circuit,sargeant,williams,19,17,0,Lapped,52
+2024,4,2024-04-07,Suzuka Circuit,zhou,sauber,20,18,0,Retired,12
+2024,4,2024-04-07,Suzuka Circuit,ricciardo,rb,11,19,0,Retired,0
+2024,4,2024-04-07,Suzuka Circuit,albon,williams,14,20,0,Retired,0
+2024,5,2024-04-21,Shanghai International Circuit,max_verstappen,red_bull,1,1,25,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,norris,mclaren,4,2,18,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,perez,red_bull,2,3,15,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,leclerc,ferrari,6,4,12,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,sainz,ferrari,7,5,10,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,russell,mercedes,8,6,8,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,alonso,aston_martin,3,7,7,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,piastri,mclaren,5,8,4,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,hamilton,mercedes,18,9,2,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,hulkenberg,haas,9,10,1,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,ocon,alpine,13,11,0,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,albon,williams,14,12,0,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,gasly,alpine,15,13,0,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,zhou,sauber,16,14,0,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,stroll,aston_martin,11,15,0,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,kevin_magnussen,haas,17,16,0,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,sargeant,williams,20,17,0,Finished,56
+2024,5,2024-04-21,Shanghai International Circuit,ricciardo,rb,12,18,0,Retired,33
+2024,5,2024-04-21,Shanghai International Circuit,tsunoda,rb,19,19,0,Retired,26
+2024,5,2024-04-21,Shanghai International Circuit,bottas,sauber,10,20,0,Retired,19
+2024,6,2024-05-05,Miami International Autodrome,norris,mclaren,5,1,25,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,norris,mclaren,1,1,25,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,max_verstappen,red_bull,3,2,18,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,russell,mercedes,4,3,15,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,antonelli,mercedes,16,4,12,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,albon,williams,6,5,10,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,stroll,aston_martin,13,6,8,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,hulkenberg,sauber,17,7,6,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,leclerc,ferrari,7,8,4,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,piastri,mclaren,2,9,2,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,hamilton,ferrari,8,10,1,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,gasly,alpine,9,11,0,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,tsunoda,rb,5,12,0,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,ocon,haas,19,13,0,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,bearman,haas,20,14,0,Finished,57
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,lawson,red_bull,18,15,0,Retired,46
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,bortoleto,sauber,15,16,0,Retired,45
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,alonso,aston_martin,12,17,0,Retired,32
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,sainz,williams,10,18,0,Retired,0
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,doohan,alpine,14,19,0,Retired,0
+2025,1,2025-03-16,Albert Park Grand Prix Circuit,hadjar,rb,11,20,0,Retired,0
+2025,2,2025-03-23,Shanghai International Circuit,piastri,mclaren,1,1,25,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,norris,mclaren,3,2,18,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,russell,mercedes,2,3,15,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,max_verstappen,red_bull,4,4,12,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,ocon,haas,11,5,10,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,antonelli,mercedes,8,6,8,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,albon,williams,10,7,6,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,bearman,haas,17,8,4,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,stroll,aston_martin,14,9,2,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,sainz,williams,15,10,1,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,hadjar,rb,7,11,0,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,lawson,red_bull,20,12,0,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,doohan,alpine,18,13,0,Finished,56
+2025,2,2025-03-23,Shanghai International Circuit,bortoleto,sauber,19,14,0,Lapped,55
+2025,2,2025-03-23,Shanghai International Circuit,hulkenberg,sauber,12,15,0,Lapped,55
+2025,2,2025-03-23,Shanghai International Circuit,tsunoda,rb,9,16,0,Lapped,55
+2025,2,2025-03-23,Shanghai International Circuit,alonso,aston_martin,13,17,0,Retired,4
+2025,2,2025-03-23,Shanghai International Circuit,leclerc,ferrari,6,18,0,Disqualified,0
+2025,2,2025-03-23,Shanghai International Circuit,hamilton,ferrari,5,19,0,Disqualified,0
+2025,2,2025-03-23,Shanghai International Circuit,gasly,alpine,16,20,0,Disqualified,0
+2025,3,2025-04-06,Suzuka Circuit,max_verstappen,red_bull,1,1,25,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,norris,mclaren,2,2,18,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,piastri,mclaren,3,3,15,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,leclerc,ferrari,4,4,12,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,russell,mercedes,5,5,10,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,antonelli,mercedes,6,6,8,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,hamilton,ferrari,8,7,6,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,hadjar,rb,7,8,4,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,albon,williams,9,9,2,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,bearman,haas,10,10,1,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,alonso,aston_martin,12,11,0,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,tsunoda,red_bull,14,12,0,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,gasly,alpine,11,13,0,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,sainz,williams,15,14,0,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,doohan,alpine,19,15,0,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,hulkenberg,sauber,16,16,0,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,lawson,rb,13,17,0,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,ocon,haas,18,18,0,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,bortoleto,sauber,17,19,0,Finished,53
+2025,3,2025-04-06,Suzuka Circuit,stroll,aston_martin,20,20,0,Lapped,52
+2025,4,2025-04-13,Bahrain International Circuit,piastri,mclaren,1,1,25,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,russell,mercedes,3,2,18,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,norris,mclaren,6,3,15,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,leclerc,ferrari,2,4,12,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,hamilton,ferrari,9,5,10,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,max_verstappen,red_bull,7,6,8,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,gasly,alpine,4,7,6,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,ocon,haas,14,8,4,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,tsunoda,red_bull,10,9,2,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,bearman,haas,20,10,1,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,antonelli,mercedes,5,11,0,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,albon,williams,15,12,0,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,hadjar,rb,12,13,0,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,doohan,alpine,11,14,0,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,alonso,aston_martin,13,15,0,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,lawson,rb,17,16,0,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,stroll,aston_martin,19,17,0,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,bortoleto,sauber,18,18,0,Finished,57
+2025,4,2025-04-13,Bahrain International Circuit,sainz,williams,8,19,0,Retired,45
+2025,4,2025-04-13,Bahrain International Circuit,hulkenberg,sauber,16,20,0,Disqualified,0
+2025,5,2025-04-20,Jeddah Corniche Circuit,piastri,mclaren,2,1,25,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,max_verstappen,red_bull,1,2,18,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,leclerc,ferrari,4,3,15,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,norris,mclaren,10,4,12,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,russell,mercedes,3,5,10,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,antonelli,mercedes,5,6,8,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,hamilton,ferrari,7,7,6,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,sainz,williams,6,8,4,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,albon,williams,11,9,2,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,hadjar,rb,14,10,1,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,alonso,aston_martin,13,11,0,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,lawson,rb,12,12,0,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,bearman,haas,15,13,0,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,ocon,haas,19,14,0,Finished,50
+2025,5,2025-04-20,Jeddah Corniche Circuit,hulkenberg,sauber,18,15,0,Lapped,49
+2025,5,2025-04-20,Jeddah Corniche Circuit,stroll,aston_martin,16,16,0,Lapped,49
+2025,5,2025-04-20,Jeddah Corniche Circuit,doohan,alpine,17,17,0,Lapped,49
+2025,5,2025-04-20,Jeddah Corniche Circuit,bortoleto,sauber,20,18,0,Lapped,49
+2025,5,2025-04-20,Jeddah Corniche Circuit,tsunoda,red_bull,8,19,0,Retired,1
+2025,5,2025-04-20,Jeddah Corniche Circuit,gasly,alpine,9,20,0,Retired,0
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,russell,mercedes,1,1,25,Finished,58
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,antonelli,mercedes,2,2,18,Finished,58
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,leclerc,ferrari,4,3,15,Finished,58
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,hamilton,ferrari,7,4,12,Finished,58
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,norris,mclaren,6,5,10,Finished,58
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,max_verstappen,red_bull,20,6,8,Finished,58
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,bearman,haas,12,7,6,Lapped,57
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,arvid_lindblad,rb,9,8,4,Lapped,57
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,bortoleto,audi,10,9,2,Lapped,57
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,gasly,alpine,14,10,1,Lapped,57
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,ocon,haas,13,11,0,Lapped,57
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,albon,williams,15,12,0,Lapped,57
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,lawson,rb,8,13,0,Lapped,57
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,colapinto,alpine,16,14,0,Lapped,56
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,sainz,williams,21,15,0,Lapped,56
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,perez,cadillac,18,16,0,Lapped,55
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,stroll,aston_martin,22,17,0,Lapped,43
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,alonso,aston_martin,17,18,0,Retired,21
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,bottas,cadillac,19,19,0,Retired,15
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,hadjar,red_bull,3,20,0,Retired,10
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,piastri,mclaren,5,21,0,Did not start,0
+2026,1,2026-03-08,Albert Park Grand Prix Circuit,hulkenberg,audi,11,22,0,Did not start,0
+2026,2,2026-03-15,Shanghai International Circuit,antonelli,mercedes,1,1,25,Finished,56
+2026,2,2026-03-15,Shanghai International Circuit,russell,mercedes,2,2,18,Finished,56
+2026,2,2026-03-15,Shanghai International Circuit,hamilton,ferrari,3,3,15,Finished,56
+2026,2,2026-03-15,Shanghai International Circuit,leclerc,ferrari,4,4,12,Finished,56
+2026,2,2026-03-15,Shanghai International Circuit,bearman,haas,10,5,10,Finished,56
+2026,2,2026-03-15,Shanghai International Circuit,gasly,alpine,7,6,8,Finished,56
+2026,2,2026-03-15,Shanghai International Circuit,lawson,rb,14,7,6,Finished,56
+2026,2,2026-03-15,Shanghai International Circuit,hadjar,red_bull,9,8,4,Finished,56
+2026,2,2026-03-15,Shanghai International Circuit,sainz,williams,17,9,2,Lapped,55
+2026,2,2026-03-15,Shanghai International Circuit,colapinto,alpine,12,10,1,Lapped,55
+2026,2,2026-03-15,Shanghai International Circuit,hulkenberg,audi,11,11,0,Lapped,55
+2026,2,2026-03-15,Shanghai International Circuit,arvid_lindblad,rb,15,12,0,Lapped,55
+2026,2,2026-03-15,Shanghai International Circuit,bottas,cadillac,19,13,0,Lapped,55
+2026,2,2026-03-15,Shanghai International Circuit,ocon,haas,13,14,0,Lapped,55
+2026,2,2026-03-15,Shanghai International Circuit,perez,cadillac,21,15,0,Lapped,55
+2026,2,2026-03-15,Shanghai International Circuit,max_verstappen,red_bull,8,16,0,Retired,45
+2026,2,2026-03-15,Shanghai International Circuit,alonso,aston_martin,18,17,0,Retired,32
+2026,2,2026-03-15,Shanghai International Circuit,stroll,aston_martin,20,18,0,Retired,9
+2026,2,2026-03-15,Shanghai International Circuit,piastri,mclaren,5,19,0,Did not start,0
+2026,2,2026-03-15,Shanghai International Circuit,norris,mclaren,6,20,0,Did not start,0
+2026,2,2026-03-15,Shanghai International Circuit,bortoleto,audi,16,21,0,Did not start,0
+2026,2,2026-03-15,Shanghai International Circuit,albon,williams,22,22,0,Did not start,0
+2026,3,2026-03-29,Suzuka Circuit,antonelli,mercedes,1,1,25,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,piastri,mclaren,3,2,18,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,leclerc,ferrari,4,3,15,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,russell,mercedes,2,4,12,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,norris,mclaren,5,5,10,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,hamilton,ferrari,6,6,8,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,gasly,alpine,7,7,6,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,max_verstappen,red_bull,11,8,4,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,lawson,rb,14,9,2,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,ocon,haas,12,10,1,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,hulkenberg,audi,13,11,0,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,hadjar,red_bull,8,12,0,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,bortoleto,audi,9,13,0,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,arvid_lindblad,rb,10,14,0,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,sainz,williams,16,15,0,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,colapinto,alpine,15,16,0,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,perez,cadillac,19,17,0,Finished,53
+2026,3,2026-03-29,Suzuka Circuit,alonso,aston_martin,21,18,0,Lapped,52
+2026,3,2026-03-29,Suzuka Circuit,bottas,cadillac,20,19,0,Lapped,52
+2026,3,2026-03-29,Suzuka Circuit,albon,williams,17,20,0,Lapped,51
+2026,3,2026-03-29,Suzuka Circuit,stroll,aston_martin,22,21,0,Retired,30
+2026,3,2026-03-29,Suzuka Circuit,bearman,haas,18,22,0,Retired,20
+2026,4,2026-05-03,Miami International Autodrome,antonelli,mercedes,1,1,25,Finished,57
+2026,4,2026-05-03,Miami International Autodrome,norris,mclaren,4,2,18,Finished,57
+2026,4,2026-05-03,Miami International Autodrome,piastri,mclaren,7,3,15,Finished,57
+2026,4,2026-05-03,Miami International Autodrome,russell,mercedes,5,4,12,Finished,57
+2026,4,2026-05-03,Miami International Autodrome,max_verstappen,red_bull,2,5,10,Finished,57
+2026,4,2026-05-03,Miami International Autodrome,hamilton,ferrari,6,6,8,Finished,57
+2026,4,2026-05-03,Miami International Autodrome,colapinto,alpine,8,7,6,Finished,57
+2026,4,2026-05-03,Miami International Autodrome,leclerc,ferrari,3,8,4,Finished,57
+2026,4,2026-05-03,Miami International Autodrome,sainz,williams,13,9,2,Finished,57
+2026,4,2026-05-03,Miami International Autodrome,albon,williams,15,10,1,Finished,57
+2026,4,2026-05-03,Miami International Autodrome,bearman,haas,12,11,0,Lapped,56
+2026,4,2026-05-03,Miami International Autodrome,bortoleto,audi,21,12,0,Lapped,56
+2026,4,2026-05-03,Miami International Autodrome,ocon,haas,14,13,0,Lapped,56
+2026,4,2026-05-03,Miami International Autodrome,arvid_lindblad,rb,16,14,0,Lapped,56
+2026,4,2026-05-03,Miami International Autodrome,alonso,aston_martin,17,15,0,Lapped,56
+2026,4,2026-05-03,Miami International Autodrome,perez,cadillac,20,16,0,Lapped,56
+2026,4,2026-05-03,Miami International Autodrome,stroll,aston_martin,18,17,0,Lapped,56
+2026,4,2026-05-03,Miami International Autodrome,bottas,cadillac,19,18,0,Lapped,55
+2026,4,2026-05-03,Miami International Autodrome,hulkenberg,audi,10,19,0,Retired,7
+2026,4,2026-05-03,Miami International Autodrome,lawson,rb,11,20,0,Retired,6
+2026,4,2026-05-03,Miami International Autodrome,gasly,alpine,9,21,0,Retired,4
+2026,4,2026-05-03,Miami International Autodrome,hadjar,red_bull,22,22,0,Retired,4
+2026,5,2026-05-24,Circuit Gilles Villeneuve,antonelli,mercedes,2,1,25,Finished,68
+2026,5,2026-05-24,Circuit Gilles Villeneuve,hamilton,ferrari,5,2,18,Finished,68
+2026,5,2026-05-24,Circuit Gilles Villeneuve,max_verstappen,red_bull,6,3,15,Finished,68
+2026,5,2026-05-24,Circuit Gilles Villeneuve,leclerc,ferrari,8,4,12,Finished,68
+2026,5,2026-05-24,Circuit Gilles Villeneuve,hadjar,red_bull,7,5,10,Lapped,67
+2026,5,2026-05-24,Circuit Gilles Villeneuve,colapinto,alpine,10,6,8,Lapped,67
+2026,5,2026-05-24,Circuit Gilles Villeneuve,lawson,rb,12,7,6,Lapped,67
+2026,5,2026-05-24,Circuit Gilles Villeneuve,gasly,alpine,14,8,4,Lapped,67
+2026,5,2026-05-24,Circuit Gilles Villeneuve,sainz,williams,15,9,2,Lapped,67
+2026,5,2026-05-24,Circuit Gilles Villeneuve,bearman,haas,16,10,1,Lapped,67
+2026,5,2026-05-24,Circuit Gilles Villeneuve,piastri,mclaren,4,11,0,Lapped,66
+2026,5,2026-05-24,Circuit Gilles Villeneuve,hulkenberg,audi,11,12,0,Lapped,66
